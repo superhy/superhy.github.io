@@ -7,7 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Education & Experience
 
 2021.1 ~ Now, Postdoctoral Research Assistant, Department of Engineering Science, University of Oxford, Oxford, UK
+
 2019.10 ~ 2020.10, Visiting Researcher, Web Science Institute, University of Southampton, Southampton, UK
+
 2016.9 ~ 2020.12, PhD student, School of Computer Science and Engineering, South China University of Technology, Guangzhou, China
 
 ### Selected Publications
