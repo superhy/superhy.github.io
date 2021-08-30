@@ -1,8 +1,6 @@
 ## Welcome to Yang's Personal Pages
 
-You can use the [editor on GitHub](https://github.com/superhy/superhy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I'm Yang Hu, an Artificial Intelligence Researcher.
 
 ### Education & Experience
 
@@ -42,7 +40,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Contact
 
-Email: *superhy199148@hotmail.com* (personal) ***yang.hu@eng.ox.ac.uk*** (work)
+Email: *superhy199148@hotmail.com* (personal) ***[yang.hu@eng.ox.ac.uk](yang.hu@eng.ox.ac.uk)*** (work)
 
 Address: Big Data Institute | University of Oxford | Old Road Campus | Headington, Oxford, OX3 7LF | UK
 
