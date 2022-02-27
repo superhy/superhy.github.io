@@ -14,9 +14,9 @@ Hi, I'm Yang Hu, an Artificial Intelligence Researcher.
 
 #### 2021
 1. Xu, Y., Wen, G., Yang, P., Fan, B., **Hu, Y.**, Luo, M., & Wang, C. (2021). Task-Coupling Elastic Learning for Physical Sign-based Medical Image Classification. IEEE Journal of Biomedical and Health Informatics. (IF: 5.772)
-2. **Hu, Y.**, Wen, G., Luo, M., Dai, D., Cao, W., Yu, Z., & Hall, W. (2021). Inner-Imaging Networks: Put Lenses Into Convolutional Structure. IEEE Transactions on Cybernetics. (IF: 11.448) [pdf](https://github.com/superhy/superhy.github.io/blob/main/papers/Inner-Imaging_Networks_Put_Lenses_Into_Convolutional_Structure.pdf)
-3. **Hu, Y.**, Wen, G., Luo, M., Yang, P., Dai, D., Yu, Z., ... & Hall, W. (2021). Fully-Channel Regional Attention Network for Disease-Location Recognition with Tongue Images. Artificial Intelligence in Medicine, 102110. (IF: 5.326) [pdf](https://github.com/superhy/superhy.github.io/blob/main/papers/Fully-channel_regional_attention_network_for_disease-location_recognition_with_tongue_images.pdf)
-4. **Hu, Y.**, Wen, G., Chapman, A., Yang, P., Luo, M., Xu, Y., ... & Hall, W. (2021). Graph-based Visual-Semantic Entanglement Network for Zero-shot Image Recognition. IEEE Transactions on Multimedia. (IF: 6.513) [pdf](https://github.com/superhy/superhy.github.io/blob/main/papers/Graph-based_Visual-Semantic_Entanglement_Network_for_Zero-shot_Image_Recognition.pdf)
+2. **Hu, Y.**, Wen, G., Luo, M., Dai, D., Cao, W., Yu, Z., & Hall, W. (2021). Inner-Imaging Networks: Put Lenses Into Convolutional Structure. IEEE Transactions on Cybernetics. (IF: 11.448) [pdf](https://ieeexplore.ieee.org/document/9514529)
+3. **Hu, Y.**, Wen, G., Luo, M., Yang, P., Dai, D., Yu, Z., ... & Hall, W. (2021). Fully-Channel Regional Attention Network for Disease-Location Recognition with Tongue Images. Artificial Intelligence in Medicine, 102110. (IF: 5.326) [pdf](https://www.sciencedirect.com/science/article/pii/S0933365721001032)
+4. **Hu, Y.**, Wen, G., Chapman, A., Yang, P., Luo, M., Xu, Y., ... & Hall, W. (2021). Graph-based Visual-Semantic Entanglement Network for Zero-shot Image Recognition. IEEE Transactions on Multimedia. (IF: 6.513) [pdf](https://ieeexplore.ieee.org/abstract/document/9437712?casa_token=_d7mv6_Iq8UAAAAA:ohgF6wgZiDmSumvdnpJk7b51MlFj2wIOyJltO5KF8IZKHOC2he3zX1LAHZjkQLcHvS--mRUR)
 5. Xu, Y., Wen, G., **Hu, Y.**, Luo, M., Dai, D., Zhuang, Y., & Hall, W. (2021). Multiple attentional pyramid networks for Chinese herbal recognition. Pattern Recognition, 110, 107558. (IF: 7.740)
 
 #### 2020
