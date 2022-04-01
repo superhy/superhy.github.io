@@ -45,4 +45,6 @@ Address: Big Data Institute, University of Oxford, Old Road Campus, Headington, 
 
 Twitter: [@superhy199148](https://twitter.com/superhy199148)
 
+LinkedIn: [Yang Hu](https://www.linkedin.com/in/superhy/)
+
 ZHIHU: [NX-8MAA09148HY](https://www.zhihu.com/people/scut-huyang)
