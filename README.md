@@ -4,7 +4,9 @@ Hi, I'm Yang Hu, an Artificial Intelligence Researcher.
 
 ### Education & Experience
 
-2021.1 ~ Now, Postdoctoral Research Assistant, Department of Engineering Science, University of Oxford, Oxford, UK
+2022.1 ~ now, Postdoctoral Research Scientist, Nuffield Department of Medicine, University of Oxford, Oxford, UK
+
+2021.1 ~ 2022.1, Postdoctoral Research Assistant, Department of Engineering Science, University of Oxford, Oxford, UK
 
 2019.10 ~ 2020.10, Visiting Researcher, Web Science Institute, University of Southampton, Southampton, UK
 
