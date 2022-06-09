@@ -1,5 +1,7 @@
 ## Welcome to Yang's Personal Pages
 
+![](https://github.com/superhy/superhy.github.io/blob/main/fig/back-1.png)
+
 Hi, I'm Yang Hu, an Artificial Intelligence Researcher.
 
 ### Education & Experience
