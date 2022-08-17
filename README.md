@@ -16,7 +16,7 @@ Hi, I'm Yang Hu, an Artificial Intelligence Researcher.
 
 #### 2022
 1. **Hu, Y.**, Sirinukunwattana, K., Gaitskell, K., Wood, T., Verrill C., Rittscher, J. (2022). Predicting molecular traits from tissue morphology through self-interactive multi-instance learning. MICCAI'2022; LNCS, 2022.
-2. **Hu, Y.**, Chapman, A., Wen, G., & Hall, D. W. (2022). What Can Knowledge Bring to Machine Learning?—A Survey of Low-shot Learning for Structured Data. ACM Transactions on Intelligent Systems and Technology (TIST), 13(3), 1-45. (IF: 10.489) [pdf](https://dl.acm.org/doi/abs/10.1145/3510030)
+2. **Hu, Y.**, Chapman, A., Wen, G., & Hall, D. W. (2022). What Can Knowledge Bring to Machine Learning?—A Survey of Low-shot Learning for Structured Data\[J\]. ACM Transactions on Intelligent Systems and Technology (TIST), 13(3), 1-45. (IF: 10.489) [pdf](https://dl.acm.org/doi/abs/10.1145/3510030)
 
 #### 2021
 1. Xu, Y., Wen, G., Yang, P., Fan, B., **Hu, Y.**, Luo, M., & Wang, C. (2021). Task-Coupling Elastic Learning for Physical Sign-based Medical Image Classification. IEEE Journal of Biomedical and Health Informatics (JBHI), 26(2), 626-637. (IF: 7.021)
