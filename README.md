@@ -44,6 +44,8 @@ Email: *superhy199148@hotmail.com* (personal) ***yang.hu@ndm.ox.ac.uk*** (work)
 
 Address: Big Data Institute, University of Oxford, Old Road Campus, Headington, Oxford, OX3 7LF, UK
 
+Google Scholar: [Yang Hu](https://scholar.google.com/citations?user=pUL6_G0AAAAJ&hl=zh-CN)
+
 Twitter: [@superhy199148](https://twitter.com/superhy199148)
 
 LinkedIn: [Yang Hu](https://www.linkedin.com/in/superhy/)
