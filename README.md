@@ -14,6 +14,9 @@ Hi, I'm Yang Hu, an Artificial Intelligence Researcher.
 
 ### Selected Publications
 
+#### 2023
+1. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Bonnaffe, W., Wojciechowska, M., ... & Rittscher, J. (2023). Flexible and Highly-Efficient Feature Perception for Molecular Traits Prediction via Self-interactive Deep Learning. medRxiv, 2023-07.
+
 #### 2022
 1. Dai, D., Yu, Z., Huang, W., **Hu, Y.**, & Chen, C. P. (2022). Multi-Objective Cluster Ensemble Based on Filter Refinement Scheme. IEEE Transactions on Knowledge and Data Engineering (**TKDE**). (IF: 9.235)
 2. **Hu, Y.**, Sirinukunwattana, K., Gaitskell, K., Wood, T., Verrill C., Rittscher, J. (2022). Predicting molecular traits from tissue morphology through self-interactive multi-instance learning\[C\]. **MICCAI'22**; LNCS, 2022.
