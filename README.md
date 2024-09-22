@@ -14,8 +14,13 @@ Hi, I'm Yang Hu, an Artificial Intelligence Researcher.
 
 ### Selected Publications
 
+#### 2024
+1. Xu, Y., Wen, G., **Hu, Y.**, & Yang, P. (2024). Modeling Hierarchical Structural Distance for Unsupervised Domain Adaptation. IEEE Transactions on Circuits and Systems for Video Technology. (IF: 8.3)
+2. Shi, Y., Yang, K., Wang, M., Yu, Z., Zeng, H., & **Hu, Y.** (2024). Boosted unsupervised feature selection for tumor gene expression profiles. CAAI Transactions on Intelligence Technology. (IF: 8.4)
+
 #### 2023
-1. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Bonnaffe, W., Wojciechowska, M., ... & Rittscher, J. (2023). Flexible and Highly-Efficient Feature Perception for Molecular Traits Prediction via Self-interactive Deep Learning. medRxiv, 2023-07.
+1. Bonnaffé, W., Group, C. R. U. K., Hamdy, F., **Hu, Y.**, Mills, I., Rittscher, J., ... & Woodcock, D. J. (2023). Beyond attention: deriving biologically interpretable insights from weakly-supervised multiple-instance learning models. arXiv preprint arXiv:2309.03925.
+2. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Bonnaffe, W., Wojciechowska, M., ... & Rittscher, J. (2023). Flexible and Highly-Efficient Feature Perception for Molecular Traits Prediction via Self-interactive Deep Learning. medRxiv, 2023-07.
 
 #### 2022
 1. Dai, D., Yu, Z., Huang, W., **Hu, Y.**, & Chen, C. P. (2022). Multi-Objective Cluster Ensemble Based on Filter Refinement Scheme. IEEE Transactions on Knowledge and Data Engineering (**TKDE**). (IF: 9.235)
