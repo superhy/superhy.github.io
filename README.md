@@ -1,10 +1,12 @@
 ## Welcome to Yang's Personal Pages
 
-Hi, I'm Yang Hu, an Artificial Intelligence Researcher.
+Hi, I'm Yang Hu, an Artificial Intelligence Researcher. If there is more to say, I am currently interested in the development and application of lightweight and interpretable large models. The application scenarios are broad, but mainly in the medical and health fields. What I care about most is understanding cancer.
 
 ### Education & Experience
 
-2022.1 ~ now, Postdoctoral Research Scientist, Nuffield Department of Medicine, University of Oxford, Oxford, UK
+2025.11 ~ now, Lecturer in Computer Science, School of Computing and Mathematical Sciences, University of Leicester, Leicester, UK
+
+2022.1 ~ 2025.11, Postdoctoral Research Scientist, Nuffield Department of Medicine, University of Oxford, Oxford, UK
 
 2021.1 ~ 2022.1, Postdoctoral Research Assistant, Department of Engineering Science, University of Oxford, Oxford, UK
 
@@ -12,11 +14,21 @@ Hi, I'm Yang Hu, an Artificial Intelligence Researcher.
 
 2016.9 ~ 2020.12, PhD student, School of Computer Science and Engineering, South China University of Technology, Guangzhou, China
 
+### Opportunity
+
+**PhD Opening (Full CSC–Leicester Scholarship, deadline: 11 Dec 2025)** → [Details](https://le.ac.uk/study/research-degrees/funded-opportunities/china-scholarship-council) 
+
 ### Selected Publications
+
+#### 2025
+1. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Domingo, E., Bonnaffé, W., ... & Rittscher, J. (2025). Self-interactive learning: Fusion and evolution of multi-scale histomorphology features for molecular traits prediction in computational pathology. Medical Image Analysis. (IF: 11.8)
+2. Hu, J., Guo, J., Luo, C., **Hu, Y.**, Lanzinger, M., & Li, Z. (2025). Enabling Generalized Zero-Shot Vulnerability Classification. IEEE Transactions on Dependable and Secure Computing. (IF: 7.5)
+3. Wood, R., **Hu, Y.**, Rittscher, J., & Li, B. (2025). GenST: A Generative Cross-Modal Model for Predicting Spatial Transcriptomics from Histology Images. In MICCAI Workshop on Computational Pathology with Multimodal Data (COMPAYL).
 
 #### 2024
 1. Xu, Y., Wen, G., **Hu, Y.**, & Yang, P. (2024). Modeling Hierarchical Structural Distance for Unsupervised Domain Adaptation. IEEE Transactions on Circuits and Systems for Video Technology. (IF: 8.3)
 2. Shi, Y., Yang, K., Wang, M., Yu, Z., Zeng, H., & **Hu, Y.** (2024). Boosted unsupervised feature selection for tumor gene expression profiles. CAAI Transactions on Intelligence Technology. (IF: 8.4)
+3. Yao, Y., Liu, X., Yu, Z., Lv, J., **Hu, Y.**, & Yang, K. (2024, November). Unsupervised Cross-Modal Medical Image Retrieval with Ensemble Prototype Alignment. In 2024 IEEE International Conference on Medical Artificial Intelligence (MedAI).
 
 #### 2023
 1. Bonnaffé, W., Group, C. R. U. K., Hamdy, F., **Hu, Y.**, Mills, I., Rittscher, J., ... & Woodcock, D. J. (2023). Beyond attention: deriving biologically interpretable insights from weakly-supervised multiple-instance learning models. arXiv preprint arXiv:2309.03925.
