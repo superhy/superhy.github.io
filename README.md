@@ -61,9 +61,9 @@ Hi, I'm Yang Hu, an Artificial Intelligence Researcher. If there is something mo
 
 ### Contact
 
-Email: *superhy199148@hotmail.com* (personal) ***yang.hu@ndm.ox.ac.uk*** (work)
+Email: *superhy199148@hotmail.com* (personal) ***hy208@leicester.ac.uk*** (work)
 
-Address: Big Data Institute, University of Oxford, Old Road Campus, Headington, Oxford, OX3 7LF, UK
+Address: KE523 Ken Edwards Building, University Rd, University of Leicester, Leicester LE1 7RH, UK
 
 Google Scholar: [Yang Hu](https://scholar.google.com/citations?user=pUL6_G0AAAAJ&hl=zh-CN)
 
