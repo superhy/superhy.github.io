@@ -1,6 +1,6 @@
 ## Welcome to Yang's Personal Pages
 
-Hi, I'm Yang Hu, an Artificial Intelligence Researcher. If there is something more to say, I am currently interested in the development and application of lightweight and interpretable large models. The application scenarios are broad, but mainly in the medical and health fields. What I care about most is understanding cancer.
+Hi, I'm Yang Hu, an Artificial Intelligence Researcher. If there is something more to say, I am currently interested in the development and application of lightweight and interpretable foundation models. The application scenarios are broad, but mainly in the medical and health fields. What I care about most is understanding cancer.
 
 ### Education & Experience
 
