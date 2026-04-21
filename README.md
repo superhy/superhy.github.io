@@ -34,7 +34,6 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 - **University of Leicester (2025–26, Semester 2):** module co-leader, CO2115 Information Security Fundamentals; supervisor, CO1109 Business and Financial Computing; project supervision, CO2302 Software Engineering Group Project; supervisor/tutor, CO4210/CO7210 Personal and Group Skills; individual project supervisor, CO7201 Individual Project.
 - **Guest lectures:** BS3083 Respiratory and Cancer Precision Medicine (Mar 2026, Leicester); COMP6235 Foundations of Data Science (2022–2024, Southampton; module lead: Prof Adriane Chapman).
 - **Assistant supervisor:** PhD candidates at Southampton (Feb 2022 — Jun 2023) and Oxford (May 2022 — Jun 2023).
-- **Earlier:** teaching assistant, Advanced Artificial Intelligence (PhD course), SCUT (Jan 2017 — Jun 2017).
 
 ### Publications
 
