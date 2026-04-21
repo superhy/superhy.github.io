@@ -24,7 +24,6 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 - **EPSRC DLA — PhD studentship (primary supervisor), 2026** — *Biophysically Constrained Dynamic Graph AI for Modelling Tumour Microenvironment Evolution in Uterine Cancer* (4-year studentship: tuition, £20,000/year stipend, £2,100/year research/training support).
 - **DAAD AInet Fellowship, 2023** — Networking and collaboration grant (Germany).
 - **The Alan Turing Institute — Postdoctoral Enrichment Award, 2022** — *New collaboration for efficient and interpretable AI-supported computational pathology* (£2,000).
-- **Principal Scholarship, SCUT (Academically Outstanding Doctoral Student), 2019** — ¥40,000 (four winners annually, school-wide).
 
 ### Opportunity
 
@@ -46,66 +45,66 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 
 #### 2025
 
-3. Xiao, Y., **Hu, Y.**, Li, B., Zhang, T., Li, Z., Fu, H., ... & Yang, K. (2025). *AdaFusion: Prompt-Guided Inference with Adaptive Fusion of Pathology Foundation Models*. arXiv:2508.05084.
-4. **Hu, Y.**, Batchkala, G., Gaitskell, K., Domingo, E., Li, B., Zhang, T., Li, Z., ... (2025). *Harness Behavioural Analysis for Unpacking the Bio-Interpretability of Pathology Foundation Models*. medRxiv, 2025-12-31.25343151.
-5. Bonnaffé, W., **Hu, Y.**, Chatrian, A., Fan, M., Malacrino, S., Figiel, S., Group, C., ... (2025). *Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations*. arXiv:2511.10432.
-6. Wood, R., **Hu, Y.**, Rittscher, J., & Li, B. (2025). *GenST: A Generative Cross-Modal Model for Predicting Spatial Transcriptomics from Histology Images*. MICCAI Workshop COMPAYL.
-7. Wojciechowska, M. K., Thing, M., **Hu, Y.**, Mazzoni, G., Harder, L. M., Werge, M. P., ... & Rittscher, J. (2025). *Decoding Fibrosis: Transcriptomic and Clinical Insights via AI-Derived Collagen Deposition Phenotypes in MASLD*. medRxiv, 2025-08.
-8. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Domingo, E., Bonnaffé, W., ... & Rittscher, J. (2025). *Self-interactive learning: Fusion and evolution of multi-scale histomorphology features for molecular traits prediction in computational pathology*. Medical Image Analysis, 103437.
-9. Hu, J., Guo, J., Luo, C., **Hu, Y.**, Lanzinger, M., & Li, Z. (2025). *Enabling Generalized Zero-Shot Vulnerability Classification*. IEEE Transactions on Dependable and Secure Computing.
+1. Xiao, Y., **Hu, Y.**, Li, B., Zhang, T., Li, Z., Fu, H., ... & Yang, K. (2025). *AdaFusion: Prompt-Guided Inference with Adaptive Fusion of Pathology Foundation Models*. arXiv:2508.05084.
+2. **Hu, Y.**, Batchkala, G., Gaitskell, K., Domingo, E., Li, B., Zhang, T., Li, Z., ... (2025). *Harness Behavioural Analysis for Unpacking the Bio-Interpretability of Pathology Foundation Models*. medRxiv, 2025-12-31.25343151.
+3. Bonnaffé, W., **Hu, Y.**, Chatrian, A., Fan, M., Malacrino, S., Figiel, S., Group, C., ... (2025). *Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations*. arXiv:2511.10432.
+4. Wood, R., **Hu, Y.**, Rittscher, J., & Li, B. (2025). *GenST: A Generative Cross-Modal Model for Predicting Spatial Transcriptomics from Histology Images*. MICCAI Workshop COMPAYL.
+5. Wojciechowska, M. K., Thing, M., **Hu, Y.**, Mazzoni, G., Harder, L. M., Werge, M. P., ... & Rittscher, J. (2025). *Decoding Fibrosis: Transcriptomic and Clinical Insights via AI-Derived Collagen Deposition Phenotypes in MASLD*. medRxiv, 2025-08.
+6. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Domingo, E., Bonnaffé, W., ... & Rittscher, J. (2025). *Self-interactive learning: Fusion and evolution of multi-scale histomorphology features for molecular traits prediction in computational pathology*. Medical Image Analysis, 103437.
+7. Hu, J., Guo, J., Luo, C., **Hu, Y.**, Lanzinger, M., & Li, Z. (2025). *Enabling Generalized Zero-Shot Vulnerability Classification*. IEEE Transactions on Dependable and Secure Computing.
 
 #### 2024
 
-10. Xu, Z., Li, B., **Hu, Y.**, Zhang, C., East, J., Ali, S., & Rittscher, J. (2024). *Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Generative Latent Priors*. arXiv:2411.17790.
-11. Yao, Y., Liu, X., Yu, Z., Lv, J., **Hu, Y.**, & Yang, K. (2024). *Unsupervised Cross-Modal Medical Image Retrieval with Ensemble Prototype Alignment*. IEEE MedAI (pp. 161–167).
-12. Xu, Y., Wen, G., **Hu, Y.**, & Yang, P. (2024). *Modeling Hierarchical Structural Distance for Unsupervised Domain Adaptation*. IEEE Transactions on Circuits and Systems for Video Technology.
-13. Shi, Y., Yang, K., Wang, M., Yu, Z., Zeng, H., & **Hu, Y.** (2024). *Boosted unsupervised feature selection for tumor gene expression profiles*. CAAI Transactions on Intelligence Technology.
+1. Xu, Z., Li, B., **Hu, Y.**, Zhang, C., East, J., Ali, S., & Rittscher, J. (2024). *Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Generative Latent Priors*. arXiv:2411.17790.
+2. Yao, Y., Liu, X., Yu, Z., Lv, J., **Hu, Y.**, & Yang, K. (2024). *Unsupervised Cross-Modal Medical Image Retrieval with Ensemble Prototype Alignment*. IEEE MedAI (pp. 161–167).
+3. Xu, Y., Wen, G., **Hu, Y.**, & Yang, P. (2024). *Modeling Hierarchical Structural Distance for Unsupervised Domain Adaptation*. IEEE Transactions on Circuits and Systems for Video Technology.
+4. Shi, Y., Yang, K., Wang, M., Yu, Z., Zeng, H., & **Hu, Y.** (2024). *Boosted unsupervised feature selection for tumor gene expression profiles*. CAAI Transactions on Intelligence Technology.
 
 #### 2023
 
-14. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Wood, R., Verrill, C., & Rittscher, J. (2023). *Flexible and Highly-Efficient Feature Perception for Molecular Traits Prediction via Self-interactive Deep Learning*. medRxiv, 2023-07.
+1. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Wood, R., Verrill, C., & Rittscher, J. (2023). *Flexible and Highly-Efficient Feature Perception for Molecular Traits Prediction via Self-interactive Deep Learning*. medRxiv, 2023-07.
 
 #### 2022
 
-15. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Wood, R., Verrill, C., & Rittscher, J. (2022). *Predicting Molecular Traits from Tissue Morphology Through Self-interactive Multi-instance Learning*. MICCAI (pp. 130–139). Springer.
-16. Xu, Y., Wen, G., & **Hu, Y.** (2022). *Unsupervised Domain Adaptation via Deep Hierarchical Optimal Transport*. arXiv:2211.11424.
-17. Dai, D., Yu, Z., Huang, W., **Hu, Y.**, & Chen, C. P. (2022). *Multi-Objective Cluster Ensemble Based on Filter Refinement Scheme*. IEEE Transactions on Knowledge and Data Engineering.
-18. **Hu, Y.**, Chapman, A., Wen, G., & Hall, D. W. (2022). *What can knowledge bring to machine learning?—a survey of low-shot learning for structured data*. ACM Transactions on Intelligent Systems and Technology, 13(3), 1–45. [ACM](https://dl.acm.org/doi/abs/10.1145/3510030)
+1. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Wood, R., Verrill, C., & Rittscher, J. (2022). *Predicting Molecular Traits from Tissue Morphology Through Self-interactive Multi-instance Learning*. MICCAI (pp. 130–139). Springer.
+2. Xu, Y., Wen, G., & **Hu, Y.** (2022). *Unsupervised Domain Adaptation via Deep Hierarchical Optimal Transport*. arXiv:2211.11424.
+3. Dai, D., Yu, Z., Huang, W., **Hu, Y.**, & Chen, C. P. (2022). *Multi-Objective Cluster Ensemble Based on Filter Refinement Scheme*. IEEE Transactions on Knowledge and Data Engineering.
+4. **Hu, Y.**, Chapman, A., Wen, G., & Hall, D. W. (2022). *What can knowledge bring to machine learning?—a survey of low-shot learning for structured data*. ACM Transactions on Intelligent Systems and Technology, 13(3), 1–45. [ACM](https://dl.acm.org/doi/abs/10.1145/3510030)
 
 #### 2021
 
-19. Xu, Y., Wen, G., **Hu, Y.**, Luo, M., Dai, D., Zhuang, Y., & Hall, W. (2021). *Task-Coupling Elastic Learning for Physical Sign-Based Medical Image Classification*. IEEE Journal of Biomedical and Health Informatics, 26(2), 626–637.
-20. **Hu, Y.**, Wen, G., Luo, M., Dai, D., Cao, W., Yu, Z., & Hall, W. (2021). *Inner-Imaging Networks: Put Lenses Into Convolutional Structure*. IEEE Transactions on Cybernetics. [IEEE Xplore](https://ieeexplore.ieee.org/document/9514529)
-21. **Hu, Y.**, Wen, G., Luo, M., Yang, P., Dai, D., Yu, Z., ... & Hall, W. (2021). *Fully-channel regional attention network for disease-location recognition with tongue images*. Artificial Intelligence in Medicine, 118, 102110. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0933365721001032)
-22. **Hu, Y.**, Wen, G., Chapman, A., Yang, P., Luo, M., Xu, Y., ... & Hall, W. (2021). *Graph-based visual-semantic entanglement network for zero-shot image recognition*. IEEE Transactions on Multimedia, 24, 2473–2487. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9437712)
-23. Li, Y., Wen, G., **Hu, Y.**, et al. (2021). *Multi-source Seq2seq guided by knowledge for Chinese healthcare consultation*. Journal of Biomedical Informatics, 117, 103727.
-24. Xu, Y., Wen, G., **Hu, Y.**, & Luo, M. (2021). *Multiple attentional pyramid networks for Chinese herbal recognition*. Pattern Recognition, 110, 107558.
+1. Xu, Y., Wen, G., **Hu, Y.**, Luo, M., Dai, D., Zhuang, Y., & Hall, W. (2021). *Task-Coupling Elastic Learning for Physical Sign-Based Medical Image Classification*. IEEE Journal of Biomedical and Health Informatics, 26(2), 626–637.
+2. **Hu, Y.**, Wen, G., Luo, M., Dai, D., Cao, W., Yu, Z., & Hall, W. (2021). *Inner-Imaging Networks: Put Lenses Into Convolutional Structure*. IEEE Transactions on Cybernetics. [IEEE Xplore](https://ieeexplore.ieee.org/document/9514529)
+3. **Hu, Y.**, Wen, G., Luo, M., Yang, P., Dai, D., Yu, Z., ... & Hall, W. (2021). *Fully-channel regional attention network for disease-location recognition with tongue images*. Artificial Intelligence in Medicine, 118, 102110. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0933365721001032)
+4. **Hu, Y.**, Wen, G., Chapman, A., Yang, P., Luo, M., Xu, Y., ... & Hall, W. (2021). *Graph-based visual-semantic entanglement network for zero-shot image recognition*. IEEE Transactions on Multimedia, 24, 2473–2487. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9437712)
+5. Li, Y., Wen, G., **Hu, Y.**, et al. (2021). *Multi-source Seq2seq guided by knowledge for Chinese healthcare consultation*. Journal of Biomedical Informatics, 117, 103727.
+6. Xu, Y., Wen, G., **Hu, Y.**, & Luo, M. (2021). *Multiple attentional pyramid networks for Chinese herbal recognition*. Pattern Recognition, 110, 107558.
 
 #### 2020
 
-25. Wen, G., Chen, H., Li, H., **Hu, Y.**, Li, Y., & Wang, C. (2020). *Cross domains adversarial learning for Chinese named entity recognition for online medical consultation*. Journal of Biomedical Informatics, 112, 103608.
-26. Luo, M., Wen, G., **Hu, Y.**, Dai, D., & Ma, J. (2020). *Learning competitive channel-wise attention in residual network with masked regularization and signal boosting*. Expert Systems with Applications, 160, 113591.
-27. Tianyuan, C., Li, H., Wen, G., **Hu, Y.**, & Jiajiong, M. (2020). *Correction to: Facial expression recognition sensing the complexity of testing samples*. Applied Intelligence, 50(11), 4143–4144.
-28. Luo, M., Wen, G., **Hu, Y.**, Dai, D., & Xu, Y. (2020). *Stochastic region pooling: Make attention more expressive*. Neurocomputing, 409, 119–130.
-29. Liang, H., Wen, G., **Hu, Y.**, Luo, M., Yang, P., & Xu, Y. (2020). *MVANet: Multi-Task Guided Multi-View Attention Network for Chinese Food Recognition*. IEEE Transactions on Multimedia, 23, 3551–3561.
-30. Wen, G., Ma, J., **Hu, Y.**, Li, H., & Jiang, L. (2020). *Grouping attributes zero-shot learning for tongue constitution recognition*. Artificial Intelligence in Medicine, 109, 101951.
+1. Wen, G., Chen, H., Li, H., **Hu, Y.**, Li, Y., & Wang, C. (2020). *Cross domains adversarial learning for Chinese named entity recognition for online medical consultation*. Journal of Biomedical Informatics, 112, 103608.
+2. Luo, M., Wen, G., **Hu, Y.**, Dai, D., & Ma, J. (2020). *Learning competitive channel-wise attention in residual network with masked regularization and signal boosting*. Expert Systems with Applications, 160, 113591.
+3. Tianyuan, C., Li, H., Wen, G., **Hu, Y.**, & Jiajiong, M. (2020). *Correction to: Facial expression recognition sensing the complexity of testing samples*. Applied Intelligence, 50(11), 4143–4144.
+4. Luo, M., Wen, G., **Hu, Y.**, Dai, D., & Xu, Y. (2020). *Stochastic region pooling: Make attention more expressive*. Neurocomputing, 409, 119–130.
+5. Liang, H., Wen, G., **Hu, Y.**, Luo, M., Yang, P., & Xu, Y. (2020). *MVANet: Multi-Task Guided Multi-View Attention Network for Chinese Food Recognition*. IEEE Transactions on Multimedia, 23, 3551–3561.
+6. Wen, G., Ma, J., **Hu, Y.**, Li, H., & Jiang, L. (2020). *Grouping attributes zero-shot learning for tongue constitution recognition*. Artificial Intelligence in Medicine, 109, 101951.
 
 #### 2019
 
-31. Liao, H., Wen, G., **Hu, Y.**, & Wang, C. (2019). *Convolutional herbal prescription building method from multi-scale facial features*. Multimedia Tools and Applications, 78(24), 35665–35688.
-32. Chang, T., Li, H., Wen, G., **Hu, Y.**, & Ma, J. (2019). *Facial expression recognition sensing the complexity of testing samples*. Applied Intelligence, 49(12), 4319–4334.
-33. Dai, D., Tang, J., Yu, Z., Wong, H. S., You, J., Cao, W., **Hu, Y.**, & Chen, C. P. (2019). *An inception convolutional autoencoder model for Chinese healthcare question clustering*. IEEE Transactions on Cybernetics, 51(4).
-34. **Hu, Y.**, Wen, G., Liao, H., Wang, C., Dai, D., & Yu, Z. (2019). *Automatic construction of Chinese herbal prescriptions from tongue images using CNNs and auxiliary latent therapy topics*. IEEE Transactions on Cybernetics, 51(2), 708–721.
-35. Li, D., Wen, G., Hou, Z., Huan, E., **Hu, Y.**, & Li, H. (2019). *RTCRelief-F: an effective clustering and ordering-based ensemble pruning algorithm for facial expression recognition*. Knowledge and Information Systems, 59(1), 219–250.
+1. Liao, H., Wen, G., **Hu, Y.**, & Wang, C. (2019). *Convolutional herbal prescription building method from multi-scale facial features*. Multimedia Tools and Applications, 78(24), 35665–35688.
+2. Chang, T., Li, H., Wen, G., **Hu, Y.**, & Ma, J. (2019). *Facial expression recognition sensing the complexity of testing samples*. Applied Intelligence, 49(12), 4319–4334.
+3. Dai, D., Tang, J., Yu, Z., Wong, H. S., You, J., Cao, W., **Hu, Y.**, & Chen, C. P. (2019). *An inception convolutional autoencoder model for Chinese healthcare question clustering*. IEEE Transactions on Cybernetics, 51(4).
+4. **Hu, Y.**, Wen, G., Liao, H., Wang, C., Dai, D., & Yu, Z. (2019). *Automatic construction of Chinese herbal prescriptions from tongue images using CNNs and auxiliary latent therapy topics*. IEEE Transactions on Cybernetics, 51(2), 708–721.
+5. Li, D., Wen, G., Hou, Z., Huan, E., **Hu, Y.**, & Li, H. (2019). *RTCRelief-F: an effective clustering and ordering-based ensemble pruning algorithm for facial expression recognition*. Knowledge and Information Systems, 59(1), 219–250.
 
 #### 2018
 
-36. Luo, D., Wen, G., Li, D., **Hu, Y.**, & Huan, E. (2018). *Deep-learning-based face detection using iterative bounding-box regression*. Multimedia Tools and Applications, 77(19), 24663–24680.
-37. **Hu, Y.**, Wen, G., Ma, J., Li, D., Wang, C., Li, H., & Huan, E. (2018). *Label-indicator morpheme growth on LSTM for Chinese healthcare question department classification*. Journal of Biomedical Informatics, 82, 154–168.
+1. Luo, D., Wen, G., Li, D., **Hu, Y.**, & Huan, E. (2018). *Deep-learning-based face detection using iterative bounding-box regression*. Multimedia Tools and Applications, 77(19), 24663–24680.
+2. **Hu, Y.**, Wen, G., Ma, J., Li, D., Wang, C., Li, H., & Huan, E. (2018). *Label-indicator morpheme growth on LSTM for Chinese healthcare question department classification*. Journal of Biomedical Informatics, 82, 154–168.
 
 #### 2017
 
-38. Huan, E. Y., Wen, G. H., Zhang, S. J., Li, D. Y., **Hu, Y.**, Chang, T. Y., ... & Huang, B. L. (2017). *Deep convolutional neural networks for classifying body constitution based on face image*. Computational and Mathematical Methods in Medicine, 2017.
+1. Huan, E. Y., Wen, G. H., Zhang, S. J., Li, D. Y., **Hu, Y.**, Chang, T. Y., ... & Huang, B. L. (2017). *Deep convolutional neural networks for classifying body constitution based on face image*. Computational and Mathematical Methods in Medicine, 2017.
 
 ### Academic service (selected)
 
@@ -120,7 +119,7 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 
 ### Contact
 
-Email: *superhy199148@hotmail.com* (personal) · ***hy208@leicester.ac.uk*** (work)
+Email: *[superhy199148@hotmail.com](mailto:superhy199148@hotmail.com)* (personal) · ***[hy208@leicester.ac.uk](mailto:hy208@leicester.ac.uk)*** (work)
 
 Address: KE523, Ken Edwards Building, University Road, University of Leicester, Leicester LE1 7RH, UK
 
