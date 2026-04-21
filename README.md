@@ -2,6 +2,12 @@
 
 Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested in the development and application of lightweight and interpretable foundation models, mainly in medical and health settings, with a particular focus on understanding cancer.
 
+### Opportunity
+
+**PhD (funded)** — For university-managed opportunities (including international schemes when advertised), see the [Leicester postgraduate research funding page](https://le.ac.uk/study/research-degrees/funded-opportunities). For the EPSRC project studentship above, contact me by email if you wish to discuss fit and timing.
+
+**PhD (self-funded)** — I am always open to strong applicants who are excited about **AI for cancer research** and intend to pursue a **self-funded** PhD (e.g. personal, family, or external fellowship support). Our group works with **real experimental datasets**, has **ample computational resources**, and collaborates closely with **leading clinical researchers**. Representative themes include **uterine cancer**, **mesothelioma**, and **multi-omics integration and analysis**. If this matches your interests, please email me with your CV and a short research statement.
+
 ### News
 
 *Rolling list of roughly the last three months, newest first; remove older bullets when you add new ones. Only substantive items (talks, papers, funding, awards, etc.)—do not post meta updates about this website.*
@@ -24,10 +30,6 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 - **EPSRC DLA — PhD studentship (primary supervisor), 2026** — *Biophysically Constrained Dynamic Graph AI for Modelling Tumour Microenvironment Evolution in Uterine Cancer* (4-year studentship: tuition, £20,000/year stipend, £2,100/year research/training support).
 - **DAAD AInet Fellowship, 2023** — Networking and collaboration grant (Germany).
 - **The Alan Turing Institute — Postdoctoral Enrichment Award, 2022** — *New collaboration for efficient and interpretable AI-supported computational pathology* (£2,000).
-
-### Opportunity
-
-**PhD (funded)** — For university-managed opportunities (including international schemes when advertised), see the [Leicester postgraduate research funding page](https://le.ac.uk/study/research-degrees/funded-opportunities). For the EPSRC project studentship above, contact me by email if you wish to discuss fit and timing.
 
 ### Teaching & supervision (selected)
 
