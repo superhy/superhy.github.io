@@ -4,10 +4,9 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 
 ### News
 
-*Rolling list of the last ~three months, newest first. Remove older bullets when you add new ones. Last reviewed: **21 April 2026**.*
+*Rolling list of roughly the last three months, newest first; remove older bullets when you add new ones. Only substantive items (talks, papers, funding, awards, etc.)—do not post meta updates about this website.*
 
 - **13 Apr 2026** — Invited talk, *The post-foundation model era of Computational Pathology*, workshop *Discovering Challenges and Opportunities in ‘AI for Medicine and Surgery’*, Leeds.
-- **21 Apr 2026** — Personal homepage updated (CV-aligned content; News refresh).
 - **Mar 2026** — Guest lecture, *BS3083 Respiratory and Cancer Precision Medicine*, University of Leicester.
 - **Feb 2026** — Invited talk, *Does AI-Powered Cancer Understanding Come with Sufficient Interpretability? — A Computational Pathology Perspective*, Cancer Research UK data-driven cancer research conference (session: AI-accelerated early detection of cancer using imaging and multimodal data), Edinburgh.
 - **Feb 2026** — Invited seminar, *Computational Pathology Before and After the Foundation Model Era*, TIA Centre seminar series (2025/26), University of Warwick.
