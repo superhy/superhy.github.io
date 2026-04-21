@@ -6,7 +6,8 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 
 *Rolling list of the last ~three months, newest first. Remove older bullets when you add new ones. Last reviewed: **21 April 2026**.*
 
-- **Apr 2026** — Refreshed this homepage (including this News section).
+- **13 Apr 2026** — Invited talk, *The post-foundation model era of Computational Pathology*, workshop *Discovering Challenges and Opportunities in ‘AI for Medicine and Surgery’*, Leeds.
+- **21 Apr 2026** — Personal homepage updated (CV-aligned content; News refresh).
 - **Mar 2026** — Guest lecture, *BS3083 Respiratory and Cancer Precision Medicine*, University of Leicester.
 - **Feb 2026** — Invited talk, *Does AI-Powered Cancer Understanding Come with Sufficient Interpretability? — A Computational Pathology Perspective*, Cancer Research UK data-driven cancer research conference (session: AI-accelerated early detection of cancer using imaging and multimodal data), Edinburgh.
 - **Feb 2026** — Invited seminar, *Computational Pathology Before and After the Foundation Model Era*, TIA Centre seminar series (2025/26), University of Warwick.
@@ -24,6 +25,7 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 - **EPSRC DLA — PhD studentship (primary supervisor), 2026** — *Biophysically Constrained Dynamic Graph AI for Modelling Tumour Microenvironment Evolution in Uterine Cancer* (4-year studentship: tuition, £20,000/year stipend, £2,100/year research/training support).
 - **DAAD AInet Fellowship, 2023** — Networking and collaboration grant (Germany).
 - **The Alan Turing Institute — Postdoctoral Enrichment Award, 2022** — *New collaboration for efficient and interpretable AI-supported computational pathology* (£2,000).
+- **Principal Scholarship, SCUT (Academically Outstanding Doctoral Student), 2019** — ¥40,000 (about £3,400); four winners annually, school-wide.
 
 ### Opportunity
 
@@ -34,6 +36,7 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 - **University of Leicester (2025–26, Semester 2):** module co-leader, CO2115 Information Security Fundamentals; supervisor, CO1109 Business and Financial Computing; project supervision, CO2302 Software Engineering Group Project; supervisor/tutor, CO4210/CO7210 Personal and Group Skills; individual project supervisor, CO7201 Individual Project.
 - **Guest lectures:** BS3083 Respiratory and Cancer Precision Medicine (Mar 2026, Leicester); COMP6235 Foundations of Data Science (2022–2024, Southampton; module lead: Prof Adriane Chapman).
 - **Assistant supervisor:** PhD candidates at Southampton (Feb 2022 — Jun 2023) and Oxford (May 2022 — Jun 2023).
+- **Earlier:** teaching assistant, *Advanced Artificial Intelligence* (PhD course), SCUT (Jan 2017 — Jun 2017).
 
 ### Publications
 
