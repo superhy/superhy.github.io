@@ -141,7 +141,7 @@ h3 {
 
 .hero {
   position: relative;
-  min-height: min(760px, calc(100svh - 66px));
+  min-height: min(760px, calc(100svh - 98px));
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -241,11 +241,22 @@ h3 {
 
 .hero-foot {
   padding: 22px 0 26px;
-  display: flex;
-  gap: 34px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.85fr) minmax(0, 1fr);
+  gap: 26px;
   border-top: 1px solid rgba(255, 255, 255, 0.24);
   color: rgba(255, 255, 255, 0.68);
   font-size: 0.75rem;
+}
+
+.hero-foot a {
+  transition: color 160ms ease;
+}
+
+.hero-foot a:hover,
+.hero-foot a:focus-visible {
+  color: #fff;
+  outline: none;
 }
 
 .section-label {
@@ -285,6 +296,89 @@ h3 {
 
 .lead-prose p:last-child {
   margin-bottom: 0;
+}
+
+.opportunities-band {
+  color: #fff;
+  background: var(--accent-dark);
+}
+
+.opportunities-early {
+  padding: 84px 0 90px;
+}
+
+.opportunities-header {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+  gap: clamp(48px, 9vw, 120px);
+  align-items: end;
+}
+
+.opportunities-header h2 {
+  margin-bottom: 0;
+}
+
+.opportunities-header p {
+  max-width: 650px;
+  margin-bottom: 4px;
+  color: rgba(255, 255, 255, 0.72);
+  font-family: var(--serif);
+  font-size: 1.12rem;
+}
+
+.opportunity-routes {
+  margin-top: 54px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-top: 1px solid rgba(255, 255, 255, 0.34);
+}
+
+.opportunity-routes article {
+  min-height: 245px;
+  padding: 24px 32px 12px 0;
+}
+
+.opportunity-routes article + article {
+  padding-left: 32px;
+  border-left: 1px solid rgba(255, 255, 255, 0.22);
+}
+
+.opportunity-routes article > span {
+  color: #d6a2b2;
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+
+.opportunity-routes h3 {
+  margin: 50px 0 14px;
+  font-size: 1.42rem;
+}
+
+.opportunity-routes p {
+  margin-bottom: 0;
+  color: rgba(255, 255, 255, 0.68);
+  font-size: 0.9rem;
+}
+
+.opportunity-actions {
+  margin-top: 34px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.opportunity-actions a {
+  padding-bottom: 4px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.58);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.opportunity-actions a:hover,
+.opportunity-actions a:focus-visible {
+  color: #e5bac7;
+  border-bottom-color: currentColor;
+  outline: none;
 }
 
 .research-band {
@@ -417,8 +511,7 @@ cite {
   border-bottom: 1px solid var(--line);
 }
 
-.role-list span,
-.award-note span {
+.role-list span {
   display: block;
   margin-bottom: 8px;
   color: var(--accent);
@@ -438,20 +531,6 @@ cite {
   margin: 4px 0 0;
   color: var(--muted);
   font-size: 0.84rem;
-}
-
-.award-note {
-  margin-top: 34px;
-  padding: 22px 0 0 24px;
-  border-top: 1px solid var(--line);
-  border-left: 3px solid var(--accent);
-}
-
-.award-note p {
-  margin-bottom: 0;
-  color: var(--muted);
-  font-family: var(--serif);
-  font-size: 0.98rem;
 }
 
 .publication-section {
@@ -478,8 +557,7 @@ cite {
   color: #aaa2a7;
 }
 
-.scholar-link,
-.inline-link {
+.scholar-link {
   flex: 0 0 auto;
   padding-bottom: 5px;
   border-bottom: 1px solid currentColor;
@@ -492,9 +570,7 @@ cite {
 }
 
 .scholar-link:hover,
-.scholar-link:focus-visible,
-.inline-link:hover,
-.inline-link:focus-visible {
+.scholar-link:focus-visible {
   color: #d69bae;
   outline: none;
 }
@@ -563,49 +639,6 @@ cite {
 .pub-year-group b {
   color: #fff;
   font-weight: 600;
-}
-
-.opportunities {
-  padding: 112px 0 122px;
-}
-
-.opportunity-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1.15fr) minmax(320px, 0.85fr);
-  gap: clamp(64px, 10vw, 140px);
-}
-
-.opportunity-grid h2 {
-  max-width: 620px;
-}
-
-.opportunity-grid > div:first-child > p {
-  max-width: 650px;
-  color: var(--muted);
-  font-family: var(--serif);
-  font-size: 1.14rem;
-}
-
-.opportunity-details {
-  padding-top: 8px;
-  border-top: 1px solid var(--ink);
-}
-
-.opportunity-details p {
-  padding: 18px 0;
-  margin-bottom: 0;
-  border-bottom: 1px solid var(--line);
-  color: var(--muted);
-}
-
-.opportunity-details strong {
-  color: var(--ink);
-}
-
-.inline-link {
-  display: inline-block;
-  margin-top: 28px;
-  color: var(--accent-dark);
 }
 
 .contact {
@@ -695,9 +728,28 @@ cite {
 
   .intro-grid,
   .activity-grid,
-  .opportunity-grid,
+  .opportunities-header,
   .contact-inner {
     grid-template-columns: 1fr;
+  }
+
+  .opportunity-routes {
+    grid-template-columns: 1fr;
+  }
+
+  .opportunity-routes article {
+    min-height: 0;
+    padding: 22px 0 28px;
+  }
+
+  .opportunity-routes article + article {
+    padding-left: 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-left: 0;
+  }
+
+  .opportunity-routes h3 {
+    margin: 20px 0 12px;
   }
 
   .research-grid {
@@ -859,13 +911,17 @@ cite {
 
   .hero-foot {
     padding: 18px 0 20px;
-    flex-direction: column;
+    grid-template-columns: 1fr;
     gap: 4px;
   }
 
-  .section-intro,
-  .opportunities {
+  .section-intro {
     padding: 76px 0 82px;
+  }
+
+  .opportunities-early {
+    padding-top: 70px;
+    padding-bottom: 76px;
   }
 
   .research-inner,
@@ -886,7 +942,7 @@ cite {
 
   .intro-grid,
   .activity-grid,
-  .opportunity-grid,
+  .opportunities-header,
   .contact-inner {
     gap: 46px;
   }
@@ -913,10 +969,6 @@ cite {
   .pub-year-group ol {
     border-top: 1px solid rgba(255, 255, 255, 0.13);
     padding-top: 22px;
-  }
-
-  .opportunity-grid {
-    grid-template-columns: 1fr;
   }
 
   .contact-inner {
