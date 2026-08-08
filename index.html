@@ -3,281 +3,320 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Yang Hu, PhD - Lecturer in Computer Science at the University of Leicester. AI for cancer understanding, computational pathology, interpretable foundation models, and multimodal biomedical AI.">
-    <title>Yang Hu | AI for Cancer Understanding</title>
+    <meta name="description" content="Yang Hu, PhD - Lecturer in Computer Science at the University of Leicester, working on computational pathology, interpretable foundation models, and multimodal biomedical AI.">
+    <title>Yang Hu | Computational Pathology and Biomedical AI</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
   </head>
   <body>
     <header class="site-header" id="top">
       <nav class="nav-shell" aria-label="Main navigation">
-        <a class="brand" href="#top">
-          <span class="brand-mark">YH</span>
-          <span>
-            <strong>Yang Hu</strong>
-            <small>AI for cancer understanding</small>
-          </span>
-        </a>
+        <a class="brand" href="#top" aria-label="Yang Hu, home">Yang Hu</a>
         <div class="nav-links">
+          <a href="#about">About</a>
           <a href="#research">Research</a>
           <a href="#news">News</a>
           <a href="#publications">Publications</a>
           <a href="#opportunities">Opportunities</a>
           <a href="#contact">Contact</a>
         </div>
+        <details class="mobile-nav">
+          <summary>Menu</summary>
+          <div class="mobile-menu">
+            <a href="#about">About</a>
+            <a href="#research">Research</a>
+            <a href="#news">News</a>
+            <a href="#publications">Publications</a>
+            <a href="#opportunities">Opportunities</a>
+            <a href="#contact">Contact</a>
+          </div>
+        </details>
       </nav>
     </header>
 
     <main>
-      <section class="hero section-wrap">
-        <div class="hero-copy">
-          <p class="eyebrow">Lecturer in Computer Science - University of Leicester</p>
-          <h1>Interpretable AI for computational pathology, multimodal medicine, and cancer research.</h1>
-          <p class="hero-text">
-            I develop lightweight, interpretable, and biologically grounded AI methods for medical and health settings, with a focus on cancer understanding, pathology foundation models, spatial omics, and trustworthy clinical translation.
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-inner">
+          <p class="hero-role">Lecturer in Computer Science · University of Leicester</p>
+          <h1 id="hero-title">Yang Hu</h1>
+          <p class="hero-deck">Computational pathology, interpretable foundation models, and multimodal AI for cancer research.</p>
+          <p class="hero-summary">
+            I build biologically grounded AI methods that help us understand disease, connect tissue morphology with molecular evidence, and translate complex medical data into reliable insight.
           </p>
           <div class="hero-actions">
-            <a class="button primary" href="#publications">Selected work</a>
-            <a class="button secondary" href="mailto:hy208@leicester.ac.uk">Email me</a>
+            <a class="button button-light" href="#publications">Selected publications</a>
+            <a class="text-action" href="mailto:hy208@leicester.ac.uk">Get in touch</a>
           </div>
         </div>
-        <aside class="hero-card" aria-label="Profile summary">
-          <div class="stat-grid">
-            <div>
-              <strong>40+</strong>
-              <span>publications</span>
-            </div>
-            <div>
-              <strong>2026</strong>
-              <span>EPSRC DLA studentship</span>
-            </div>
-            <div>
-              <strong>Oxford</strong>
-              <span>visiting researcher</span>
-            </div>
-            <div>
-              <strong>Leicester</strong>
-              <span>teaching and supervision</span>
-            </div>
+        <div class="hero-foot">
+          <span>University of Leicester</span>
+          <span>Visiting Researcher · Oxford</span>
+          <span>Visiting Researcher · Southampton</span>
+        </div>
+      </section>
+
+      <section class="section section-intro" id="about">
+        <div class="section-label">01 · About</div>
+        <div class="intro-grid">
+          <h2>AI that explains disease, not only predicts it.</h2>
+          <div class="prose lead-prose">
+            <p>
+              My research sits at the intersection of artificial intelligence, pathology, imaging, and cancer biology. I am particularly interested in how pathology foundation models behave, how microscopic features shape larger tissue-level conclusions, and how multimodal evidence can make medical AI more interpretable.
+            </p>
+            <p>
+              I am a Lecturer in the School of Computing and Mathematical Sciences at the University of Leicester, and a visiting researcher in computational pathology at the University of Oxford and in artificial intelligence at the University of Southampton.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="research-band" id="research">
+        <div class="section research-inner">
+          <div class="section-label">02 · Research</div>
+          <div class="research-grid">
+            <article>
+              <span>01</span>
+              <h3>Computational pathology</h3>
+              <p>Multi-scale histomorphology for molecular trait prediction, cancer relapse analysis, fibrosis phenotyping, and spatial tissue understanding.</p>
+            </article>
+            <article>
+              <span>02</span>
+              <h3>Interpretable foundation models</h3>
+              <p>Behavioural analysis, adaptive model fusion, and efficient feature perception for revealing when medical AI is robust and biologically meaningful.</p>
+            </article>
+            <article>
+              <span>03</span>
+              <h3>Multimodal biomedical AI</h3>
+              <p>Cross-modal links between histology, spatial transcriptomics, endoscopy, clinical records, and tumour microenvironment evolution.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section activity-grid">
+        <div id="news">
+          <div class="section-label">03 · News</div>
+          <div class="section-title-row">
+            <h2>Recent activity</h2>
+            <span>Newest first</span>
+          </div>
+          <div class="news-window" tabindex="0" aria-label="Scrollable news list">
+            <article class="news-item">
+              <time datetime="2026-07">Jul 2026</time>
+              <p>Organized and chaired the IEEE ICME 2026 workshop <cite>Physical Principles for Reliable 3D Modelling in Multimedia</cite>.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2026-06-30">30 Jun 2026</time>
+              <p>Invited talk, <cite>The post-foundation model era of computational pathology</cite>, at the 2nd Royal College of Radiologists Global AI Conference in London.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2026">2026</time>
+              <p><cite>Distilling Knowledge from Multiple Foundation Models for Accurate and Efficient Spatial Gene Expression Prediction</cite> accepted at ISBI as an oral presentation.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2026">2026</time>
+              <p><cite>Decoding fibrosis</cite>, an AI-derived study of collagen deposition phenotypes in MASLD, published in <strong>Hepatology</strong>.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2026-05-18">18 May 2026</time>
+              <p>Invited talk, <cite>AI in Computational Pathology</cite>, at the RadExIORSBoost Project Workshop and Training, University of Leicester.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2026-04">Apr 2026</time>
+              <p>Invited talk on the post-foundation model era of computational pathology at the AI for Medicine and Surgery workshop, University of Leeds.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2026-03">Mar 2026</time>
+              <p>Guest lecture for BS3083 Respiratory and Cancer Precision Medicine at the University of Leicester.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2026-02">Feb 2026</time>
+              <p>Invited talk at the Cancer Research UK Data-driven Cancer Research Conference in Edinburgh.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2026-02">Feb 2026</time>
+              <p>Invited seminar, <cite>Computational Pathology Before and After the Foundation Model Era</cite>, at the University of Warwick.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2025-11">Nov 2025</time>
+              <p>Joined the University of Leicester as Lecturer in Computer Science and presented in the CMS Computing seminar series.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2025-09">Sep 2025</time>
+              <p>Oral presentation of <cite>GenST</cite> at the MICCAI Workshop on Computational Pathology and AI for Life Sciences.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2025-06">Jun 2025</time>
+              <p>Invited talk, <cite>Instability of Feature-Driven XAI in Computational Pathology</cite>, at MICCAI SIG-xMedIA.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2025-05">May 2025</time>
+              <p>Featured on Oxford's <cite>To Immunity and Beyond</cite> podcast to discuss self-interactive learning in computational pathology.</p>
+            </article>
+            <article class="news-item">
+              <time datetime="2025-05">May 2025</time>
+              <p>Invited talk, <cite>When Machines Interpret</cite>, at the LEAP Digital Health Hub Seminar Series, University of Bristol.</p>
+            </article>
+          </div>
+        </div>
+
+        <aside class="appointments" aria-labelledby="appointments-title">
+          <div class="section-label">Appointments</div>
+          <h2 id="appointments-title">Current roles</h2>
+          <ol class="role-list">
+            <li>
+              <span>2025 - present</span>
+              <strong>Lecturer in Computer Science</strong>
+              <p>University of Leicester</p>
+            </li>
+            <li>
+              <span>2025 - present</span>
+              <strong>Visiting Researcher, Computational Pathology</strong>
+              <p>University of Oxford</p>
+            </li>
+            <li>
+              <span>2020 - present</span>
+              <strong>Visiting Researcher, Artificial Intelligence</strong>
+              <p>University of Southampton</p>
+            </li>
+          </ol>
+          <div class="award-note">
+            <span>Current supervision</span>
+            <p>Primary supervisor for a 2026 EPSRC DLA four-year PhD studentship on dynamic graph AI for tumour microenvironment evolution in uterine cancer.</p>
           </div>
         </aside>
       </section>
 
-      <section class="section-wrap profile-band" id="research">
-        <div class="section-heading">
-          <p class="eyebrow">Research focus</p>
-          <h2>AI that helps explain disease, not just predict it.</h2>
-        </div>
-        <div class="focus-grid">
-          <article>
-            <h3>Computational pathology</h3>
-            <p>Multi-scale histomorphology modelling for molecular trait prediction, cancer relapse analysis, fibrosis phenotyping, and foundation-model interpretation.</p>
-          </article>
-          <article>
-            <h3>Interpretable foundation models</h3>
-            <p>Behavioural analysis, adaptive fusion, and efficient feature perception methods that reveal when medical AI is robust, fragile, or biologically meaningful.</p>
-          </article>
-          <article>
-            <h3>Multimodal biomedical AI</h3>
-            <p>Cross-modal links between histology, spatial transcriptomics, endoscopy, clinical records, and dynamic tumour microenvironment evolution.</p>
-          </article>
-        </div>
-      </section>
+      <section class="publication-section" id="publications">
+        <div class="section publication-inner">
+          <div class="section-label">04 · Publications</div>
+          <div class="publication-heading">
+            <div>
+              <h2>Selected publications</h2>
+              <p>A broader selection of recent, high-impact, and representative work. Yang Hu is shown in bold.</p>
+            </div>
+            <a class="scholar-link" href="https://scholar.google.com/citations?user=pUL6_G0AAAAJ&hl=en">View Google Scholar ↗</a>
+          </div>
 
-      <section class="section-wrap two-column">
-        <div class="panel" id="news">
-          <div class="section-heading compact">
-            <p class="eyebrow">News</p>
-            <h2>Recent activities</h2>
-            <p class="muted">Newest first. Scroll inside this window for earlier items.</p>
-          </div>
-          <div class="news-window" tabindex="0" aria-label="Scrollable news list">
-            <article class="news-item">
-              <time>Jul 2026</time>
-              <p>Organizer and chair of the IEEE ICME 2026 workshop <em>Physical Principles for Reliable 3D Modelling in Multimedia</em>.</p>
-            </article>
-            <article class="news-item">
-              <time>30 Jun 2026</time>
-              <p>Invited talk, <em>The post-foundation model era of computational pathology</em>, 2nd Royal College of Radiologists Global AI Conference, QEII Centre, London.</p>
-            </article>
-            <article class="news-item">
-              <time>2026</time>
-              <p><em>Distilling Knowledge from Multiple Foundation Models for Accurate and Efficient Spatial Gene Expression Prediction</em> accepted for ISBI as an oral presentation.</p>
-            </article>
-            <article class="news-item">
-              <time>2026</time>
-              <p><em>Decoding fibrosis: Transcriptomic and clinical insights via AI-derived collagen deposition phenotypes in MASLD</em> appeared in <strong>Hepatology</strong>.</p>
-            </article>
-            <article class="news-item">
-              <time>18 May 2026</time>
-              <p>Invited talk, <em>AI in Computational Pathology</em>, RadExIORSBoost Project Workshop and Training, University of Leicester.</p>
-            </article>
-            <article class="news-item">
-              <time>Apr 2026</time>
-              <p>Invited talk, <em>The post-foundation model era of Computational Pathology</em>, workshop on AI for Medicine and Surgery, University of Leeds.</p>
-            </article>
-            <article class="news-item">
-              <time>Mar 2026</time>
-              <p>Guest lecture for BS3083 Respiratory and Cancer Precision Medicine, University of Leicester.</p>
-            </article>
-            <article class="news-item">
-              <time>Feb 2026</time>
-              <p>Invited talk at the Cancer Research UK Data-driven Cancer Research Conference in Edinburgh, in the session on AI-accelerated early detection using imaging and multimodal data.</p>
-            </article>
-            <article class="news-item">
-              <time>Feb 2026</time>
-              <p>Invited seminar, <em>Computational Pathology Before and After the Foundation Model Era</em>, TIA Centre seminar series, University of Warwick.</p>
-            </article>
-            <article class="news-item">
-              <time>Nov 2025</time>
-              <p>Seminar, <em>Exploring the Impact of Micro-features on Macro-morphological Understanding in Computational Pathology</em>, CMS Computing seminar series, University of Leicester.</p>
-            </article>
-            <article class="news-item">
-              <time>Sep 2025</time>
-              <p>Oral presentation, <em>GenST: A Generative Cross-Modal Model for Predicting Spatial Transcriptomics from Histology Images</em>, MICCAI Workshop COMPAYL.</p>
-            </article>
-            <article class="news-item">
-              <time>Jun 2025</time>
-              <p>Invited talk, <em>Instability of Feature-Driven XAI in Computational Pathology</em>, MICCAI SIG-xMedIA.</p>
-            </article>
-            <article class="news-item">
-              <time>May 2025</time>
-              <p>Podcast on self-interactive learning for computational pathology, <em>To Immunity and Beyond</em> with Prof Paul Klenerman, Oxford.</p>
-            </article>
-            <article class="news-item">
-              <time>May 2025</time>
-              <p>Invited talk, <em>When Machines Interpret</em>, LEAP Digital Health Hub Seminar Series, University of Bristol.</p>
-            </article>
-          </div>
-        </div>
+          <div class="publication-groups">
+            <section class="pub-year-group" aria-labelledby="pub-2026">
+              <h3 id="pub-2026">2026 <span>4</span></h3>
+              <ol>
+                <li><p>Wojciechowska, M., Thing, M., <strong>Hu, Y.</strong>, et al. <cite>Decoding fibrosis: Transcriptomic and clinical insights via AI-derived collagen deposition phenotypes in MASLD.</cite> <b>Hepatology</b>.</p></li>
+                <li><p>Li, Z., Li, B., <strong>Hu, Y.</strong>, Rittscher, J., &amp; Verrill, C. <cite>Distilling Knowledge from Multiple Foundation Models for Accurate and Efficient Spatial Gene Expression Prediction.</cite> <b>ISBI</b>, oral presentation.</p></li>
+                <li><p>Xu, Z., Li, B., <strong>Hu, Y.</strong>, et al. <cite>Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Latent Priors.</cite> <b>IEEE Transactions on Medical Imaging</b>.</p></li>
+                <li><p>Luo, X., Li, H., Cheng, X., Zhao, H., <strong>Hu, Y.</strong>, et al. <cite>TraceTrans: Translation and Spatial Tracing for Surgical Prediction.</cite> <b>AAAI</b>.</p></li>
+              </ol>
+            </section>
 
-        <div class="panel" id="appointments">
-          <div class="section-heading compact">
-            <p class="eyebrow">Appointments</p>
-            <h2>Current roles</h2>
-          </div>
-          <div class="timeline">
-            <article>
-              <span>Nov 2025 - Present</span>
-              <h3>Lecturer in Computer Science</h3>
-              <p>School of Computing and Mathematical Sciences, University of Leicester.</p>
-            </article>
-            <article>
-              <span>Dec 2025 - Present</span>
-              <h3>Visiting Researcher, Computational Pathology</h3>
-              <p>University of Oxford.</p>
-            </article>
-            <article>
-              <span>Nov 2020 - Present</span>
-              <h3>Visiting Researcher, Artificial Intelligence</h3>
-              <p>University of Southampton.</p>
-            </article>
-            <article>
-              <span>Jan 2021 - Nov 2025</span>
-              <h3>Postdoctoral Researcher</h3>
-              <p>University of Oxford, Engineering Science and Nuffield Department of Medicine.</p>
-            </article>
+            <section class="pub-year-group" aria-labelledby="pub-2025">
+              <h3 id="pub-2025">2025 <span>6</span></h3>
+              <ol>
+                <li><p><strong>Hu, Y.</strong>, Sirinukunwattana, K., Li, B., et al. <cite>Self-interactive learning: Fusion and evolution of multi-scale histomorphology features for molecular traits prediction in computational pathology.</cite> <b>Medical Image Analysis</b>.</p></li>
+                <li><p>Hu, J., Guo, J., Luo, C., <strong>Hu, Y.</strong>, Lanzinger, M., &amp; Li, Z. <cite>Enabling Generalized Zero-Shot Vulnerability Classification.</cite> <b>IEEE Transactions on Dependable and Secure Computing</b>.</p></li>
+                <li><p>Xiao, Y., <strong>Hu, Y.</strong>, Li, B., et al. <cite>AdaFusion: Prompt-Guided Inference with Adaptive Fusion of Pathology Foundation Models.</cite> arXiv:2508.05084.</p></li>
+                <li><p><strong>Hu, Y.</strong>, Batchkala, G., Gaitskell, K., et al. <cite>Harness Behavioural Analysis for Unpacking the Bio-Interpretability of Pathology Foundation Models.</cite> medRxiv.</p></li>
+                <li><p>Bonnaffe, W., <strong>Hu, Y.</strong>, Chatrian, A., et al. <cite>Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations.</cite> arXiv:2511.10432.</p></li>
+                <li><p>Wood, R., <strong>Hu, Y.</strong>, Rittscher, J., &amp; Li, B. <cite>GenST: A Generative Cross-Modal Model for Predicting Spatial Transcriptomics from Histology Images.</cite> <b>MICCAI Workshop COMPAYL</b>.</p></li>
+              </ol>
+            </section>
+
+            <section class="pub-year-group" aria-labelledby="pub-2024">
+              <h3 id="pub-2024">2024 <span>3</span></h3>
+              <ol>
+                <li><p>Xu, Y., Wen, G., <strong>Hu, Y.</strong>, &amp; Yang, P. <cite>Modeling Hierarchical Structural Distance for Unsupervised Domain Adaptation.</cite> <b>IEEE Transactions on Circuits and Systems for Video Technology</b>.</p></li>
+                <li><p>Yao, Y., Liu, X., Yu, Z., Lv, J., <strong>Hu, Y.</strong>, &amp; Yang, K. <cite>Unsupervised Cross-Modal Medical Image Retrieval with Ensemble Prototype Alignment.</cite> <b>IEEE MedAI</b>.</p></li>
+                <li><p>Shi, Y., Yang, K., Wang, M., et al. <cite>Boosted unsupervised feature selection for tumor gene expression profiles.</cite> <b>CAAI Transactions on Intelligence Technology</b>.</p></li>
+              </ol>
+            </section>
+
+            <section class="pub-year-group" aria-labelledby="pub-2022">
+              <h3 id="pub-2022">2022 <span>3</span></h3>
+              <ol>
+                <li><p><strong>Hu, Y.</strong>, Sirinukunwattana, K., Li, B., et al. <cite>Predicting Molecular Traits from Tissue Morphology Through Self-interactive Multi-instance Learning.</cite> <b>MICCAI</b>.</p></li>
+                <li><p>Dai, D., Yu, Z., Huang, W., <strong>Hu, Y.</strong>, &amp; Chen, C. P. <cite>Multi-Objective Cluster Ensemble Based on Filter Refinement Scheme.</cite> <b>IEEE Transactions on Knowledge and Data Engineering</b>.</p></li>
+                <li><p><strong>Hu, Y.</strong>, Chapman, A., Wen, G., &amp; Hall, W. <cite>What can knowledge bring to machine learning? A survey of low-shot learning for structured data.</cite> <b>ACM Transactions on Intelligent Systems and Technology</b>.</p></li>
+              </ol>
+            </section>
+
+            <section class="pub-year-group" aria-labelledby="pub-2021">
+              <h3 id="pub-2021">2021 <span>6</span></h3>
+              <ol>
+                <li><p><strong>Hu, Y.</strong>, Wen, G., Luo, M., et al. <cite>Inner-Imaging Networks: Put Lenses Into Convolutional Structure.</cite> <b>IEEE Transactions on Cybernetics</b>.</p></li>
+                <li><p><strong>Hu, Y.</strong>, Wen, G., Luo, M., et al. <cite>Fully-channel regional attention network for disease-location recognition with tongue images.</cite> <b>Artificial Intelligence in Medicine</b>.</p></li>
+                <li><p><strong>Hu, Y.</strong>, Wen, G., Chapman, A., et al. <cite>Graph-based visual-semantic entanglement network for zero-shot image recognition.</cite> <b>IEEE Transactions on Multimedia</b>.</p></li>
+                <li><p>Xu, Y., Wen, G., <strong>Hu, Y.</strong>, et al. <cite>Task-Coupling Elastic Learning for Physical Sign-Based Medical Image Classification.</cite> <b>IEEE Journal of Biomedical and Health Informatics</b>.</p></li>
+                <li><p>Li, Y., Wen, G., <strong>Hu, Y.</strong>, et al. <cite>Multi-source Seq2seq guided by knowledge for Chinese healthcare consultation.</cite> <b>Journal of Biomedical Informatics</b>.</p></li>
+                <li><p>Xu, Y., Wen, G., <strong>Hu, Y.</strong>, &amp; Luo, M. <cite>Multiple attentional pyramid networks for Chinese herbal recognition.</cite> <b>Pattern Recognition</b>.</p></li>
+              </ol>
+            </section>
+
+            <section class="pub-year-group" aria-labelledby="pub-2020">
+              <h3 id="pub-2020">2020 <span>3</span></h3>
+              <ol>
+                <li><p>Wen, G., Chen, H., Li, H., <strong>Hu, Y.</strong>, et al. <cite>Cross domains adversarial learning for Chinese named entity recognition for online medical consultation.</cite> <b>Journal of Biomedical Informatics</b>.</p></li>
+                <li><p>Liang, H., Wen, G., <strong>Hu, Y.</strong>, et al. <cite>MVANet: Multi-Task Guided Multi-View Attention Network for Chinese Food Recognition.</cite> <b>IEEE Transactions on Multimedia</b>.</p></li>
+                <li><p>Wen, G., Ma, J., <strong>Hu, Y.</strong>, et al. <cite>Grouping attributes zero-shot learning for tongue constitution recognition.</cite> <b>Artificial Intelligence in Medicine</b>.</p></li>
+              </ol>
+            </section>
+
+            <section class="pub-year-group" aria-labelledby="pub-2019">
+              <h3 id="pub-2019">2019 <span>3</span></h3>
+              <ol>
+                <li><p><strong>Hu, Y.</strong>, Wen, G., Liao, H., et al. <cite>Automatic construction of Chinese herbal prescriptions from tongue images using CNNs and auxiliary latent therapy topics.</cite> <b>IEEE Transactions on Cybernetics</b>.</p></li>
+                <li><p>Dai, D., Tang, J., Yu, Z., et al. <cite>An inception convolutional autoencoder model for Chinese healthcare question clustering.</cite> <b>IEEE Transactions on Cybernetics</b>.</p></li>
+                <li><p><strong>Hu, Y.</strong>, Wen, G., Ma, J., et al. <cite>Label-indicator morpheme growth on LSTM for Chinese healthcare question department classification.</cite> <b>Journal of Biomedical Informatics</b>.</p></li>
+              </ol>
+            </section>
           </div>
         </div>
       </section>
 
-      <section class="section-wrap" id="publications">
-        <div class="section-heading">
-          <p class="eyebrow">Selected publications</p>
-          <h2>Recent and representative work</h2>
-          <p class="muted">A curated list from the latest CV, prioritising recent cancer, pathology, foundation-model, and biomedical AI work.</p>
-        </div>
-        <div class="publication-list">
-          <article>
-            <span class="pub-year">2026</span>
-            <p>Wojciechowska, M., Thing, M., <strong>Hu, Y.</strong>, Mazzoni, G., Harder, L. M., Werge, M. P., ... & Rittscher, J. <em>Decoding fibrosis: Transcriptomic and clinical insights via AI-derived collagen deposition phenotypes in MASLD.</em> <strong>Hepatology</strong>.</p>
-          </article>
-          <article>
-            <span class="pub-year">2026</span>
-            <p>Li, Z., Li, B., <strong>Hu, Y.</strong>, Rittscher, J., & Verrill, C. <em>Distilling Knowledge from Multiple Foundation Models for Accurate and Efficient Spatial Gene Expression Prediction.</em> <strong>ISBI</strong>, oral presentation.</p>
-          </article>
-          <article>
-            <span class="pub-year">2026</span>
-            <p>Xu, Z., Li, B., <strong>Hu, Y.</strong>, Zhang, C., East, J., Ali, S., & Rittscher, J. <em>Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Latent Priors.</em> <strong>IEEE Transactions on Medical Imaging</strong>.</p>
-          </article>
-          <article>
-            <span class="pub-year">2026</span>
-            <p>Luo, X., Li, H., Cheng, X., Zhao, H., <strong>Hu, Y.</strong>, Song, X., & Zhang, T. <em>TraceTrans: Translation and Spatial Tracing for Surgical Prediction.</em> <strong>AAAI</strong>.</p>
-          </article>
-          <article>
-            <span class="pub-year">2025</span>
-            <p><strong>Hu, Y.</strong>, Sirinukunwattana, K., Li, B., Gaitskell, K., Domingo, E., Bonnaffe, W., ... & Rittscher, J. <em>Self-interactive learning: Fusion and evolution of multi-scale histomorphology features for molecular traits prediction in computational pathology.</em> <strong>Medical Image Analysis</strong>.</p>
-          </article>
-          <article>
-            <span class="pub-year">2025</span>
-            <p>Xiao, Y., <strong>Hu, Y.</strong>, Li, B., Zhang, T., Li, Z., Fu, H., ... & Yang, K. <em>AdaFusion: Prompt-Guided Inference with Adaptive Fusion of Pathology Foundation Models.</em> arXiv:2508.05084.</p>
-          </article>
-          <article>
-            <span class="pub-year">2025</span>
-            <p><strong>Hu, Y.</strong>, Batchkala, G., Gaitskell, K., Domingo, E., Li, B., Zhang, T., Li, Z., ... <em>Harness Behavioural Analysis for Unpacking the Bio-Interpretability of Pathology Foundation Models.</em> medRxiv.</p>
-          </article>
-          <article>
-            <span class="pub-year">2025</span>
-            <p>Wood, R., <strong>Hu, Y.</strong>, Rittscher, J., & Li, B. <em>GenST: A Generative Cross-Modal Model for Predicting Spatial Transcriptomics from Histology Images.</em> MICCAI Workshop COMPAYL.</p>
-          </article>
-          <article>
-            <span class="pub-year">2022</span>
-            <p><strong>Hu, Y.</strong>, Chapman, A., Wen, G., & Hall, W. <em>What can knowledge bring to machine learning? A survey of low-shot learning for structured data.</em> <strong>ACM Transactions on Intelligent Systems and Technology</strong>.</p>
-          </article>
+      <section class="section opportunities" id="opportunities">
+        <div class="section-label">05 · Opportunities</div>
+        <div class="opportunity-grid">
+          <div>
+            <h2>PhD supervision and collaboration</h2>
+            <p>I welcome enquiries from researchers and prospective PhD students interested in computational pathology, multimodal biomedical data, interpretable foundation models, and AI for cancer research.</p>
+          </div>
+          <div class="opportunity-details">
+            <p><strong>Current themes</strong><br>Uterine cancer, mesothelioma, tumour microenvironment modelling, pathology foundation models, spatial omics, and multi-omics integration.</p>
+            <p><strong>Funding routes</strong><br>University-managed opportunities, EPSRC studentships, CSC and other external schemes, as well as suitable self-funded routes.</p>
+            <a class="inline-link" href="https://le.ac.uk/study/research-degrees/funded-opportunities">Leicester postgraduate research funding ↗</a>
+          </div>
         </div>
       </section>
 
-      <section class="section-wrap two-column">
-        <div class="panel" id="opportunities">
-          <div class="section-heading compact">
-            <p class="eyebrow">Opportunities</p>
-            <h2>PhD supervision</h2>
+      <section class="contact" id="contact">
+        <div class="section contact-inner">
+          <div>
+            <div class="section-label light">06 · Contact</div>
+            <h2>For research collaboration, talks, and PhD enquiries.</h2>
           </div>
-          <p>
-            I welcome strong applicants interested in AI for cancer research, computational pathology, multimodal biomedical data, and interpretable foundation models.
-          </p>
-          <ul class="clean-list">
-            <li><strong>Funded routes:</strong> university-managed opportunities, EPSRC studentships, CSC and other external schemes when available.</li>
-            <li><strong>Self-funded routes:</strong> suitable for applicants with personal, family, institutional, or fellowship support.</li>
-            <li><strong>Representative themes:</strong> uterine cancer, mesothelioma, tumour microenvironment modelling, pathology foundation models, and multi-omics integration.</li>
-          </ul>
-          <a class="text-link" href="https://le.ac.uk/study/research-degrees/funded-opportunities">Leicester postgraduate research funding</a>
-        </div>
-        <div class="panel" id="service">
-          <div class="section-heading compact">
-            <p class="eyebrow">Teaching and service</p>
-            <h2>Selected activities</h2>
+          <div class="contact-details">
+            <p>KE523, Ken Edwards Building<br>University of Leicester<br>Leicester LE1 7RH, UK</p>
+            <a href="mailto:hy208@leicester.ac.uk">hy208@leicester.ac.uk</a>
+            <a href="mailto:superhy199148@hotmail.com">superhy199148@hotmail.com</a>
+            <div class="social-links">
+              <a href="https://scholar.google.com/citations?user=pUL6_G0AAAAJ&hl=en">Google Scholar</a>
+              <a href="https://www.linkedin.com/in/superhy/">LinkedIn</a>
+              <a href="https://twitter.com/superhy199148">X</a>
+            </div>
           </div>
-          <ul class="clean-list">
-            <li>Module co-leader, CO2115 Information Security Fundamentals, University of Leicester.</li>
-            <li>Supervisor and tutor across Leicester undergraduate, MSc, and group project modules.</li>
-            <li>Guest lecturer for cancer precision medicine and data science modules.</li>
-            <li>Guest editor, <em>Frontiers in Artificial Intelligence</em> special issue on robust and secure AI systems.</li>
-            <li>Reviewer for IEEE TCYB, TKDE, TNNLS, TCSVT, IJCV, JBI, MICCAI, ISBI, and ACM MM.</li>
-          </ul>
-        </div>
-      </section>
-
-      <section class="section-wrap contact-strip" id="contact">
-        <div>
-          <p class="eyebrow">Contact</p>
-          <h2>For collaboration, talks, and PhD enquiries.</h2>
-          <p>KE523, Ken Edwards Building, University Road, University of Leicester, Leicester LE1 7RH, UK.</p>
-        </div>
-        <div class="contact-links">
-          <a href="mailto:hy208@leicester.ac.uk">hy208@leicester.ac.uk</a>
-          <a href="mailto:superhy199148@hotmail.com">superhy199148@hotmail.com</a>
-          <a href="https://scholar.google.com/citations?user=pUL6_G0AAAAJ&hl=zh-CN">Google Scholar</a>
-          <a href="https://www.linkedin.com/in/superhy/">LinkedIn</a>
-          <a href="https://twitter.com/superhy199148">Twitter/X</a>
         </div>
       </section>
     </main>
 
     <footer class="site-footer">
-      <p>© Yang Hu. Last updated August 2026.</p>
+      <p>&copy; Yang Hu. Last updated August 2026.</p>
+      <a href="#top">Back to top ↑</a>
     </footer>
+    <script>
+      document.querySelectorAll(".mobile-menu a").forEach((link) => {
+        link.addEventListener("click", () => link.closest("details").removeAttribute("open"));
+      });
+    </script>
   </body>
 </html>
