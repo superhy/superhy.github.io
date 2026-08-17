@@ -26,7 +26,7 @@ body {
   background: var(--paper);
   font-family: var(--sans);
   font-size: 16px;
-  line-height: 1.65;
+  line-height: 1.55;
   overflow-x: hidden;
 }
 
@@ -54,9 +54,9 @@ h3 {
 }
 
 h2 {
-  margin-bottom: 20px;
-  font-size: clamp(2rem, 4vw, 3.6rem);
-  line-height: 1.08;
+  margin-bottom: 12px;
+  font-size: clamp(1.5rem, 2.4vw, 2.15rem);
+  line-height: 1.18;
 }
 
 h3 {
@@ -64,7 +64,7 @@ h3 {
 }
 
 [id] {
-  scroll-margin-top: 82px;
+  scroll-margin-top: 68px;
 }
 
 .top-anchor {
@@ -93,7 +93,7 @@ h3 {
 
 .nav-shell {
   width: min(var(--max), calc(100% - 48px));
-  min-height: 66px;
+  min-height: 54px;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -151,7 +151,7 @@ h3 {
 
 .hero {
   position: relative;
-  min-height: min(760px, calc(100svh - 98px));
+  min-height: min(520px, calc(100svh - 54px));
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -173,11 +173,11 @@ h3 {
 }
 
 .hero-inner {
-  padding: clamp(72px, 12vh, 128px) 0 64px;
+  padding: clamp(36px, 6vh, 56px) 0 32px;
 }
 
 .hero-role {
-  margin-bottom: 28px;
+  margin-bottom: 14px;
   color: rgba(255, 255, 255, 0.82);
   font-size: 0.76rem;
   font-weight: 600;
@@ -185,17 +185,17 @@ h3 {
 }
 
 .hero h1 {
-  margin-bottom: 12px;
-  font-size: clamp(4.2rem, 10vw, 8.4rem);
-  line-height: 0.9;
+  margin-bottom: 8px;
+  font-size: clamp(2.4rem, 5.2vw, 3.6rem);
+  line-height: 1;
 }
 
 .hero-deck {
-  max-width: 780px;
-  margin-bottom: 24px;
+  max-width: 720px;
+  margin-bottom: 14px;
   font-family: var(--serif);
-  font-size: clamp(1.55rem, 3vw, 2.55rem);
-  line-height: 1.14;
+  font-size: clamp(1.12rem, 1.8vw, 1.42rem);
+  line-height: 1.28;
 }
 
 .hero-summary {
@@ -206,10 +206,10 @@ h3 {
 }
 
 .hero-actions {
-  margin-top: 36px;
+  margin-top: 22px;
   display: flex;
   align-items: center;
-  gap: 26px;
+  gap: 22px;
 }
 
 .button {
@@ -250,7 +250,7 @@ h3 {
 }
 
 .hero-foot {
-  padding: 22px 0 26px;
+  padding: 14px 0 16px;
   display: grid;
   grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.85fr) minmax(0, 1fr);
   gap: 26px;
@@ -270,7 +270,7 @@ h3 {
 }
 
 .section-label {
-  margin-bottom: 36px;
+  margin-bottom: 18px;
   color: var(--accent);
   font-size: 0.72rem;
   font-weight: 600;
@@ -282,13 +282,13 @@ h3 {
 }
 
 .section-intro {
-  padding: 108px 0 120px;
+  padding: 56px 0 60px;
 }
 
 .intro-grid {
   display: grid;
   grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
-  gap: clamp(50px, 9vw, 120px);
+  gap: clamp(28px, 5vw, 64px);
   align-items: start;
 }
 
@@ -301,7 +301,7 @@ h3 {
   max-width: 680px;
   color: var(--muted);
   font-family: var(--serif);
-  font-size: 1.17rem;
+  font-size: 1.02rem;
 }
 
 .lead-prose p:last-child {
@@ -314,13 +314,13 @@ h3 {
 }
 
 .opportunities-early {
-  padding: 84px 0 90px;
+  padding: 52px 0 56px;
 }
 
 .opportunities-header {
   display: grid;
   grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
-  gap: clamp(48px, 9vw, 120px);
+  gap: clamp(28px, 5vw, 64px);
   align-items: end;
 }
 
@@ -337,15 +337,15 @@ h3 {
 }
 
 .opportunity-routes {
-  margin-top: 54px;
+  margin-top: 28px;
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   border-top: 1px solid rgba(255, 255, 255, 0.34);
 }
 
 .opportunity-routes article {
-  min-height: 245px;
-  padding: 24px 32px 12px 0;
+  min-height: 0;
+  padding: 18px 28px 8px 0;
 }
 
 .opportunity-routes article + article {
@@ -360,8 +360,8 @@ h3 {
 }
 
 .opportunity-routes h3 {
-  margin: 50px 0 14px;
-  font-size: 1.42rem;
+  margin: 16px 0 10px;
+  font-size: 1.18rem;
 }
 
 .opportunity-routes p {
@@ -371,7 +371,7 @@ h3 {
 }
 
 .opportunity-actions {
-  margin-top: 34px;
+  margin-top: 22px;
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
@@ -398,7 +398,7 @@ h3 {
 }
 
 .research-inner {
-  padding: 90px 0 96px;
+  padding: 52px 0 56px;
 }
 
 .research-grid {
@@ -408,8 +408,8 @@ h3 {
 }
 
 .research-grid article {
-  min-height: 280px;
-  padding: 26px 34px 16px 0;
+  min-height: 0;
+  padding: 18px 28px 8px 0;
 }
 
 .research-grid article + article {
@@ -424,8 +424,8 @@ h3 {
 }
 
 .research-grid h3 {
-  margin: 64px 0 16px;
-  font-size: 1.52rem;
+  margin: 16px 0 10px;
+  font-size: 1.22rem;
 }
 
 .research-grid p {
@@ -435,14 +435,14 @@ h3 {
 }
 
 .activity-grid {
-  padding: 108px 0 120px;
+  padding: 56px 0 60px;
   display: grid;
   grid-template-columns: minmax(0, 1.5fr) minmax(280px, 0.7fr);
-  gap: clamp(56px, 8vw, 110px);
+  gap: clamp(32px, 5vw, 64px);
 }
 
 .section-title-row {
-  margin-bottom: 18px;
+  margin-bottom: 12px;
   display: flex;
   align-items: baseline;
   justify-content: space-between;
@@ -452,7 +452,7 @@ h3 {
 .section-title-row h2,
 .appointments h2 {
   margin-bottom: 0;
-  font-size: clamp(2rem, 3.4vw, 3.2rem);
+  font-size: clamp(1.5rem, 2.4vw, 2.15rem);
 }
 
 .section-title-row > span {
@@ -462,9 +462,9 @@ h3 {
 }
 
 .news-window {
-  height: 488px;
+  height: 360px;
   overflow-y: auto;
-  padding-right: 20px;
+  padding-right: 16px;
   border-top: 1px solid var(--ink);
   border-bottom: 1px solid var(--line);
   scrollbar-color: var(--accent) #eee9e8;
@@ -478,9 +478,9 @@ h3 {
 
 .news-item {
   display: grid;
-  grid-template-columns: 116px minmax(0, 1fr);
-  gap: 22px;
-  padding: 19px 0;
+  grid-template-columns: 108px minmax(0, 1fr);
+  gap: 16px;
+  padding: 12px 0;
   border-bottom: 1px solid var(--line);
 }
 
@@ -497,8 +497,8 @@ h3 {
 .news-item p {
   margin-bottom: 0;
   font-family: var(--serif);
-  font-size: 1.02rem;
-  line-height: 1.5;
+  font-size: 0.96rem;
+  line-height: 1.45;
 }
 
 cite {
@@ -510,14 +510,14 @@ cite {
 }
 
 .role-list {
-  margin: 32px 0 0;
+  margin: 16px 0 0;
   padding: 0;
   list-style: none;
   border-top: 1px solid var(--ink);
 }
 
 .role-list li {
-  padding: 20px 0;
+  padding: 14px 0;
   border-bottom: 1px solid var(--line);
 }
 
@@ -544,13 +544,13 @@ cite {
 }
 
 .publication-section {
-  padding: 100px 0 112px;
+  padding: 52px 0 60px;
   color: #ece7e9;
   background: var(--hero);
 }
 
 .publication-heading {
-  margin-bottom: 56px;
+  margin-bottom: 28px;
   display: flex;
   justify-content: space-between;
   align-items: end;
@@ -591,9 +591,9 @@ cite {
 
 .pub-year-group {
   display: grid;
-  grid-template-columns: 126px minmax(0, 1fr);
-  gap: 34px;
-  padding: 34px 0 28px;
+  grid-template-columns: 110px minmax(0, 1fr);
+  gap: 24px;
+  padding: 20px 0 16px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.18);
 }
 
@@ -620,7 +620,7 @@ cite {
 
 .pub-year-group li {
   position: relative;
-  padding: 0 0 18px 40px;
+  padding: 0 0 12px 36px;
   counter-increment: publication;
 }
 
@@ -641,8 +641,8 @@ cite {
   margin-bottom: 0;
   color: #bdb5b9;
   font-family: var(--serif);
-  font-size: 1rem;
-  line-height: 1.5;
+  font-size: 0.95rem;
+  line-height: 1.45;
 }
 
 .pub-year-group strong,
@@ -657,10 +657,10 @@ cite {
 }
 
 .contact-inner {
-  padding: 88px 0 94px;
+  padding: 52px 0 56px;
   display: grid;
   grid-template-columns: minmax(0, 1.25fr) minmax(300px, 0.75fr);
-  gap: clamp(60px, 10vw, 140px);
+  gap: clamp(32px, 6vw, 80px);
 }
 
 .contact h2 {
@@ -701,7 +701,7 @@ cite {
 }
 
 .site-footer {
-  padding: 24px max(24px, calc((100% - var(--max)) / 2));
+  padding: 16px max(24px, calc((100% - var(--max)) / 2));
   display: flex;
   justify-content: space-between;
   gap: 24px;
@@ -728,12 +728,12 @@ cite {
   }
 
   .hero {
-    min-height: 700px;
+    min-height: 480px;
     background-position: 55% center;
   }
 
   .hero h1 {
-    font-size: 6rem;
+    font-size: 3rem;
   }
 
   .intro-grid,
@@ -749,7 +749,7 @@ cite {
 
   .opportunity-routes article {
     min-height: 0;
-    padding: 22px 0 28px;
+    padding: 16px 0 18px;
   }
 
   .opportunity-routes article + article {
@@ -759,7 +759,7 @@ cite {
   }
 
   .opportunity-routes h3 {
-    margin: 20px 0 12px;
+    margin: 12px 0 8px;
   }
 
   .research-grid {
@@ -768,7 +768,7 @@ cite {
 
   .research-grid article {
     min-height: 0;
-    padding: 24px 0 30px;
+    padding: 16px 0 18px;
   }
 
   .research-grid article + article {
@@ -778,11 +778,11 @@ cite {
   }
 
   .research-grid h3 {
-    margin: 22px 0 12px;
+    margin: 12px 0 8px;
   }
 
   .activity-grid {
-    gap: 88px;
+    gap: 40px;
   }
 
   .appointments {
@@ -797,7 +797,7 @@ cite {
 
 @media (max-width: 700px) {
   [id] {
-    scroll-margin-top: 82px;
+    scroll-margin-top: 64px;
   }
 
   .section,
@@ -812,7 +812,7 @@ cite {
   }
 
   .nav-shell {
-    min-height: 66px;
+    min-height: 50px;
     padding: 0;
     display: flex;
   }
@@ -878,7 +878,7 @@ cite {
   }
 
   .hero {
-    min-height: min(670px, calc(100svh - 92px));
+    min-height: min(460px, calc(100svh - 50px));
     background-position: 64% center;
   }
 
@@ -890,23 +890,23 @@ cite {
   }
 
   .hero-inner {
-    padding: 52px 0 24px;
+    padding: 32px 0 18px;
   }
 
   .hero-role {
     max-width: 300px;
-    margin-bottom: 18px;
+    margin-bottom: 10px;
     line-height: 1.45;
   }
 
   .hero h1 {
-    font-size: 4.25rem;
+    font-size: 2.45rem;
   }
 
   .hero-deck {
     max-width: 480px;
-    margin-bottom: 18px;
-    font-size: 1.6rem;
+    margin-bottom: 12px;
+    font-size: 1.18rem;
   }
 
   .hero-summary {
@@ -915,8 +915,8 @@ cite {
   }
 
   .hero-actions {
-    margin-top: 26px;
-    gap: 18px;
+    margin-top: 18px;
+    gap: 16px;
   }
 
   .hero-foot {
@@ -926,39 +926,39 @@ cite {
   }
 
   .section-intro {
-    padding: 76px 0 82px;
+    padding: 42px 0 46px;
   }
 
   .opportunities-early {
-    padding-top: 70px;
-    padding-bottom: 76px;
+    padding-top: 42px;
+    padding-bottom: 46px;
   }
 
   .research-inner,
   .publication-section,
   .contact-inner {
-    padding-top: 72px;
-    padding-bottom: 78px;
+    padding-top: 42px;
+    padding-bottom: 46px;
   }
 
   .activity-grid {
-    padding-top: 76px;
-    padding-bottom: 82px;
+    padding-top: 42px;
+    padding-bottom: 46px;
   }
 
   .section-label {
-    margin-bottom: 26px;
+    margin-bottom: 14px;
   }
 
   .intro-grid,
   .activity-grid,
   .opportunities-header,
   .contact-inner {
-    gap: 46px;
+    gap: 28px;
   }
 
   .news-window {
-    height: 430px;
+    height: 320px;
     padding-right: 10px;
   }
 
@@ -968,12 +968,12 @@ cite {
   }
 
   .publication-heading {
-    margin-bottom: 38px;
+    margin-bottom: 22px;
   }
 
   .pub-year-group {
     grid-template-columns: 1fr;
-    gap: 20px;
+    gap: 12px;
   }
 
   .pub-year-group ol {
@@ -988,7 +988,7 @@ cite {
 
 @media (max-width: 420px) {
   .hero h1 {
-    font-size: 3.7rem;
+    font-size: 2.2rem;
   }
 
   .news-item {

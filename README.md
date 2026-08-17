@@ -4,20 +4,30 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 
 ### Opportunity
 
-**PhD (funded)** — For university-managed opportunities (including international schemes when advertised), see the [Leicester postgraduate research funding page](https://le.ac.uk/study/research-degrees/funded-opportunities). For the EPSRC project studentship above, contact me by email if you wish to discuss fit and timing.
+I welcome enquiries from strong candidates who want to develop interpretable and biologically grounded AI for pathology, cancer research, and multimodal medicine. Email [hy208@leicester.ac.uk](mailto:hy208@leicester.ac.uk?subject=Prospective%20PhD%20enquiry) to discuss a proposal, or see [Leicester funded opportunities](https://le.ac.uk/study/research-degrees/funded-opportunities).
 
-**PhD (self-funded)** — I am always open to strong applicants who are excited about **AI for cancer research** and intend to pursue a **self-funded** PhD (e.g. personal, family, or external fellowship support). Our group works with **real experimental datasets**, has **ample computational resources**, and collaborates closely with **leading clinical researchers**. Representative themes include **uterine cancer**, **mesothelioma**, and **multi-omics integration and analysis**. If this matches your interests, please email me with your CV and a short research statement.
+**Self-funded PhD** — Applications are welcome from candidates supported through personal, family, employer, institutional, or fellowship funding.
+
+**CSC-funded PhD** — I welcome strong applicants seeking full PhD funding through the China Scholarship Council, subject to the annual scheme and university requirements.
+
+**Funded openings** — Other fully and partially funded PhD opportunities will be added here as soon as new projects and scholarship routes become available.
 
 ### News
 
-*Rolling list of roughly the last three months, newest first; remove older bullets when you add new ones. Only substantive items (talks, papers, funding, awards, etc.)—do not post meta updates about this website.*
-
-- **13 Apr 2026** — Invited talk, *The post-foundation model era of Computational Pathology*, workshop *Discovering Challenges and Opportunities in ‘AI for Medicine and Surgery’*, Leeds.
-- **Mar 2026** — Guest lecture, *BS3083 Respiratory and Cancer Precision Medicine*, University of Leicester.
-- **Feb 2026** — Invited talk, *Does AI-Powered Cancer Understanding Come with Sufficient Interpretability? — A Computational Pathology Perspective*, Cancer Research UK data-driven cancer research conference (session: AI-accelerated early detection of cancer using imaging and multimodal data), Edinburgh.
-- **Feb 2026** — Invited seminar, *Computational Pathology Before and After the Foundation Model Era*, TIA Centre seminar series (2025/26), University of Warwick.
-- **2026** — New work appearing this year: *Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Latent Priors* (IEEE **TMI**); *TraceTrans: Translation and Spatial Tracing for Surgical Prediction* (**AAAI**). (See [Publications](#publications) for full bibliographic details.)
-- **2026** — **EPSRC DLA** 4-year PhD studentship secured (I am the primary supervisor): *Biophysically Constrained Dynamic Graph AI for Modelling Tumour Microenvironment Evolution in Uterine Cancer*. (See [Grants & awards](#grants--awards).)
+- **Jul 2026** — Organized and chaired the IEEE ICME 2026 workshop *Physical Principles for Reliable 3D Modelling in Multimedia*.
+- **30 Jun 2026** — Invited talk, *The post-foundation model era of computational pathology*, at the 2nd Royal College of Radiologists Global AI Conference in London.
+- **2026** — *Distilling Knowledge from Multiple Foundation Models for Accurate and Efficient Spatial Gene Expression Prediction* accepted at **ISBI** as an oral presentation.
+- **2026** — *Decoding fibrosis*, an AI-derived study of collagen deposition phenotypes in MASLD, published in **Hepatology**.
+- **18 May 2026** — Invited talk, *AI in Computational Pathology*, at the RadExIORSBoost Project Workshop and Training, University of Leicester.
+- **Apr 2026** — Invited talk on the post-foundation model era of computational pathology at the AI for Medicine and Surgery workshop, University of Leeds.
+- **Mar 2026** — Guest lecture for BS3083 Respiratory and Cancer Precision Medicine at the University of Leicester.
+- **Feb 2026** — Invited talk at the Cancer Research UK Data-driven Cancer Research Conference in Edinburgh.
+- **Feb 2026** — Invited seminar, *Computational Pathology Before and After the Foundation Model Era*, at the University of Warwick.
+- **Nov 2025** — Joined the University of Leicester as Lecturer in Computer Science and presented in the CMS Computing seminar series.
+- **Sep 2025** — Oral presentation of *GenST* at the MICCAI Workshop on Computational Pathology and AI for Life Sciences.
+- **Jun 2025** — Invited talk, *Instability of Feature-Driven XAI in Computational Pathology*, at MICCAI SIG-xMedIA.
+- **May 2025** — Featured on Oxford's *To Immunity and Beyond* podcast to discuss self-interactive learning in computational pathology.
+- **May 2025** — Invited talk, *When Machines Interpret*, at the LEAP Digital Health Hub Seminar Series, University of Bristol.
 
 ### Experience
 
@@ -27,7 +37,6 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 
 ### Grants & awards
 
-- **EPSRC DLA — PhD studentship (primary supervisor), 2026** — *Biophysically Constrained Dynamic Graph AI for Modelling Tumour Microenvironment Evolution in Uterine Cancer* (4-year studentship: tuition, £20,000/year stipend, £2,100/year research/training support).
 - **DAAD AInet Fellowship, 2023** — Networking and collaboration grant (Germany).
 - **The Alan Turing Institute — Postdoctoral Enrichment Award, 2022** — *New collaboration for efficient and interpretable AI-supported computational pathology* (£2,000).
 
@@ -39,73 +48,56 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 
 ### Publications
 
+Selected recent, high-impact, and representative work. A fuller list is on [Google Scholar](https://scholar.google.com/citations?user=pUL6_G0AAAAJ&hl=en).
+
 #### 2026
 
-1. Xu, Z., Li, B., **Hu, Y.**, Zhang, C., East, J., Ali, S., & Rittscher, J. (2026). *Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Latent Priors*. IEEE Transactions on Medical Imaging.
-2. Luo, X., Li, H., Cheng, X., Zhao, H., **Hu, Y.**, Song, X., & Zhang, T. (2026). *TraceTrans: Translation and Spatial Tracing for Surgical Prediction*. Proceedings of the AAAI Conference on Artificial Intelligence.
+1. Wojciechowska, M., Thing, M., **Hu, Y.**, et al. *Decoding fibrosis: Transcriptomic and clinical insights via AI-derived collagen deposition phenotypes in MASLD.* **Hepatology**.
+2. Li, Z., Li, B., **Hu, Y.**, Rittscher, J., & Verrill, C. *Distilling Knowledge from Multiple Foundation Models for Accurate and Efficient Spatial Gene Expression Prediction.* **ISBI**, oral presentation.
+3. Xu, Z., Li, B., **Hu, Y.**, et al. *Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Latent Priors.* **IEEE Transactions on Medical Imaging**.
+4. Luo, X., Li, H., Cheng, X., Zhao, H., **Hu, Y.**, et al. *TraceTrans: Translation and Spatial Tracing for Surgical Prediction.* **AAAI**.
 
 #### 2025
 
-1. Xiao, Y., **Hu, Y.**, Li, B., Zhang, T., Li, Z., Fu, H., ... & Yang, K. (2025). *AdaFusion: Prompt-Guided Inference with Adaptive Fusion of Pathology Foundation Models*. arXiv:2508.05084.
-2. **Hu, Y.**, Batchkala, G., Gaitskell, K., Domingo, E., Li, B., Zhang, T., Li, Z., ... (2025). *Harness Behavioural Analysis for Unpacking the Bio-Interpretability of Pathology Foundation Models*. medRxiv, 2025-12-31.25343151.
-3. Bonnaffé, W., **Hu, Y.**, Chatrian, A., Fan, M., Malacrino, S., Figiel, S., Group, C., ... (2025). *Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations*. arXiv:2511.10432.
-4. Wood, R., **Hu, Y.**, Rittscher, J., & Li, B. (2025). *GenST: A Generative Cross-Modal Model for Predicting Spatial Transcriptomics from Histology Images*. MICCAI Workshop COMPAYL.
-5. Wojciechowska, M. K., Thing, M., **Hu, Y.**, Mazzoni, G., Harder, L. M., Werge, M. P., ... & Rittscher, J. (2025). *Decoding Fibrosis: Transcriptomic and Clinical Insights via AI-Derived Collagen Deposition Phenotypes in MASLD*. medRxiv, 2025-08.
-6. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Domingo, E., Bonnaffé, W., ... & Rittscher, J. (2025). *Self-interactive learning: Fusion and evolution of multi-scale histomorphology features for molecular traits prediction in computational pathology*. Medical Image Analysis, 103437.
-7. Hu, J., Guo, J., Luo, C., **Hu, Y.**, Lanzinger, M., & Li, Z. (2025). *Enabling Generalized Zero-Shot Vulnerability Classification*. IEEE Transactions on Dependable and Secure Computing.
+1. **Hu, Y.**, Sirinukunwattana, K., Li, B., et al. *Self-interactive learning: Fusion and evolution of multi-scale histomorphology features for molecular traits prediction in computational pathology.* **Medical Image Analysis**.
+2. Hu, J., Guo, J., Luo, C., **Hu, Y.**, Lanzinger, M., & Li, Z. *Enabling Generalized Zero-Shot Vulnerability Classification.* **IEEE Transactions on Dependable and Secure Computing**.
+3. Xiao, Y., **Hu, Y.**, Li, B., et al. *AdaFusion: Prompt-Guided Inference with Adaptive Fusion of Pathology Foundation Models.* arXiv:2508.05084.
+4. **Hu, Y.**, Batchkala, G., Gaitskell, K., et al. *Harness Behavioural Analysis for Unpacking the Bio-Interpretability of Pathology Foundation Models.* medRxiv.
+5. Bonnaffe, W., **Hu, Y.**, Chatrian, A., et al. *Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations.* arXiv:2511.10432.
+6. Wood, R., **Hu, Y.**, Rittscher, J., & Li, B. *GenST: A Generative Cross-Modal Model for Predicting Spatial Transcriptomics from Histology Images.* **MICCAI Workshop COMPAYL**.
 
 #### 2024
 
-1. Xu, Z., Li, B., **Hu, Y.**, Zhang, C., East, J., Ali, S., & Rittscher, J. (2024). *Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Generative Latent Priors*. arXiv:2411.17790.
-2. Yao, Y., Liu, X., Yu, Z., Lv, J., **Hu, Y.**, & Yang, K. (2024). *Unsupervised Cross-Modal Medical Image Retrieval with Ensemble Prototype Alignment*. IEEE MedAI (pp. 161–167).
-3. Xu, Y., Wen, G., **Hu, Y.**, & Yang, P. (2024). *Modeling Hierarchical Structural Distance for Unsupervised Domain Adaptation*. IEEE Transactions on Circuits and Systems for Video Technology.
-4. Shi, Y., Yang, K., Wang, M., Yu, Z., Zeng, H., & **Hu, Y.** (2024). *Boosted unsupervised feature selection for tumor gene expression profiles*. CAAI Transactions on Intelligence Technology.
-
-#### 2023
-
-1. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Wood, R., Verrill, C., & Rittscher, J. (2023). *Flexible and Highly-Efficient Feature Perception for Molecular Traits Prediction via Self-interactive Deep Learning*. medRxiv, 2023-07.
+1. Xu, Y., Wen, G., **Hu, Y.**, & Yang, P. *Modeling Hierarchical Structural Distance for Unsupervised Domain Adaptation.* **IEEE Transactions on Circuits and Systems for Video Technology**.
+2. Yao, Y., Liu, X., Yu, Z., Lv, J., **Hu, Y.**, & Yang, K. *Unsupervised Cross-Modal Medical Image Retrieval with Ensemble Prototype Alignment.* **IEEE MedAI**.
+3. Shi, Y., Yang, K., Wang, M., et al. *Boosted unsupervised feature selection for tumor gene expression profiles.* **CAAI Transactions on Intelligence Technology**.
 
 #### 2022
 
-1. **Hu, Y.**, Sirinukunwattana, K., Li, B., Gaitskell, K., Wood, R., Verrill, C., & Rittscher, J. (2022). *Predicting Molecular Traits from Tissue Morphology Through Self-interactive Multi-instance Learning*. MICCAI (pp. 130–139). Springer.
-2. Xu, Y., Wen, G., & **Hu, Y.** (2022). *Unsupervised Domain Adaptation via Deep Hierarchical Optimal Transport*. arXiv:2211.11424.
-3. Dai, D., Yu, Z., Huang, W., **Hu, Y.**, & Chen, C. P. (2022). *Multi-Objective Cluster Ensemble Based on Filter Refinement Scheme*. IEEE Transactions on Knowledge and Data Engineering.
-4. **Hu, Y.**, Chapman, A., Wen, G., & Hall, D. W. (2022). *What can knowledge bring to machine learning?—a survey of low-shot learning for structured data*. ACM Transactions on Intelligent Systems and Technology, 13(3), 1–45. [ACM](https://dl.acm.org/doi/abs/10.1145/3510030)
+1. **Hu, Y.**, Sirinukunwattana, K., Li, B., et al. *Predicting Molecular Traits from Tissue Morphology Through Self-interactive Multi-instance Learning.* **MICCAI**.
+2. Dai, D., Yu, Z., Huang, W., **Hu, Y.**, & Chen, C. P. *Multi-Objective Cluster Ensemble Based on Filter Refinement Scheme.* **IEEE Transactions on Knowledge and Data Engineering**.
+3. **Hu, Y.**, Chapman, A., Wen, G., & Hall, W. *What can knowledge bring to machine learning? A survey of low-shot learning for structured data.* **ACM Transactions on Intelligent Systems and Technology**.
 
 #### 2021
 
-1. Xu, Y., Wen, G., **Hu, Y.**, Luo, M., Dai, D., Zhuang, Y., & Hall, W. (2021). *Task-Coupling Elastic Learning for Physical Sign-Based Medical Image Classification*. IEEE Journal of Biomedical and Health Informatics, 26(2), 626–637.
-2. **Hu, Y.**, Wen, G., Luo, M., Dai, D., Cao, W., Yu, Z., & Hall, W. (2021). *Inner-Imaging Networks: Put Lenses Into Convolutional Structure*. IEEE Transactions on Cybernetics. [IEEE Xplore](https://ieeexplore.ieee.org/document/9514529)
-3. **Hu, Y.**, Wen, G., Luo, M., Yang, P., Dai, D., Yu, Z., ... & Hall, W. (2021). *Fully-channel regional attention network for disease-location recognition with tongue images*. Artificial Intelligence in Medicine, 118, 102110. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0933365721001032)
-4. **Hu, Y.**, Wen, G., Chapman, A., Yang, P., Luo, M., Xu, Y., ... & Hall, W. (2021). *Graph-based visual-semantic entanglement network for zero-shot image recognition*. IEEE Transactions on Multimedia, 24, 2473–2487. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9437712)
-5. Li, Y., Wen, G., **Hu, Y.**, et al. (2021). *Multi-source Seq2seq guided by knowledge for Chinese healthcare consultation*. Journal of Biomedical Informatics, 117, 103727.
-6. Xu, Y., Wen, G., **Hu, Y.**, & Luo, M. (2021). *Multiple attentional pyramid networks for Chinese herbal recognition*. Pattern Recognition, 110, 107558.
+1. **Hu, Y.**, Wen, G., Luo, M., et al. *Inner-Imaging Networks: Put Lenses Into Convolutional Structure.* **IEEE Transactions on Cybernetics**.
+2. **Hu, Y.**, Wen, G., Luo, M., et al. *Fully-channel regional attention network for disease-location recognition with tongue images.* **Artificial Intelligence in Medicine**.
+3. **Hu, Y.**, Wen, G., Chapman, A., et al. *Graph-based visual-semantic entanglement network for zero-shot image recognition.* **IEEE Transactions on Multimedia**.
+4. Xu, Y., Wen, G., **Hu, Y.**, et al. *Task-Coupling Elastic Learning for Physical Sign-Based Medical Image Classification.* **IEEE Journal of Biomedical and Health Informatics**.
+5. Li, Y., Wen, G., **Hu, Y.**, et al. *Multi-source Seq2seq guided by knowledge for Chinese healthcare consultation.* **Journal of Biomedical Informatics**.
+6. Xu, Y., Wen, G., **Hu, Y.**, & Luo, M. *Multiple attentional pyramid networks for Chinese herbal recognition.* **Pattern Recognition**.
 
 #### 2020
 
-1. Wen, G., Chen, H., Li, H., **Hu, Y.**, Li, Y., & Wang, C. (2020). *Cross domains adversarial learning for Chinese named entity recognition for online medical consultation*. Journal of Biomedical Informatics, 112, 103608.
-2. Luo, M., Wen, G., **Hu, Y.**, Dai, D., & Ma, J. (2020). *Learning competitive channel-wise attention in residual network with masked regularization and signal boosting*. Expert Systems with Applications, 160, 113591.
-3. Tianyuan, C., Li, H., Wen, G., **Hu, Y.**, & Jiajiong, M. (2020). *Correction to: Facial expression recognition sensing the complexity of testing samples*. Applied Intelligence, 50(11), 4143–4144.
-4. Luo, M., Wen, G., **Hu, Y.**, Dai, D., & Xu, Y. (2020). *Stochastic region pooling: Make attention more expressive*. Neurocomputing, 409, 119–130.
-5. Liang, H., Wen, G., **Hu, Y.**, Luo, M., Yang, P., & Xu, Y. (2020). *MVANet: Multi-Task Guided Multi-View Attention Network for Chinese Food Recognition*. IEEE Transactions on Multimedia, 23, 3551–3561.
-6. Wen, G., Ma, J., **Hu, Y.**, Li, H., & Jiang, L. (2020). *Grouping attributes zero-shot learning for tongue constitution recognition*. Artificial Intelligence in Medicine, 109, 101951.
+1. Wen, G., Chen, H., Li, H., **Hu, Y.**, et al. *Cross domains adversarial learning for Chinese named entity recognition for online medical consultation.* **Journal of Biomedical Informatics**.
+2. Liang, H., Wen, G., **Hu, Y.**, et al. *MVANet: Multi-Task Guided Multi-View Attention Network for Chinese Food Recognition.* **IEEE Transactions on Multimedia**.
+3. Wen, G., Ma, J., **Hu, Y.**, et al. *Grouping attributes zero-shot learning for tongue constitution recognition.* **Artificial Intelligence in Medicine**.
 
 #### 2019
 
-1. Liao, H., Wen, G., **Hu, Y.**, & Wang, C. (2019). *Convolutional herbal prescription building method from multi-scale facial features*. Multimedia Tools and Applications, 78(24), 35665–35688.
-2. Chang, T., Li, H., Wen, G., **Hu, Y.**, & Ma, J. (2019). *Facial expression recognition sensing the complexity of testing samples*. Applied Intelligence, 49(12), 4319–4334.
-3. Dai, D., Tang, J., Yu, Z., Wong, H. S., You, J., Cao, W., **Hu, Y.**, & Chen, C. P. (2019). *An inception convolutional autoencoder model for Chinese healthcare question clustering*. IEEE Transactions on Cybernetics, 51(4).
-4. **Hu, Y.**, Wen, G., Liao, H., Wang, C., Dai, D., & Yu, Z. (2019). *Automatic construction of Chinese herbal prescriptions from tongue images using CNNs and auxiliary latent therapy topics*. IEEE Transactions on Cybernetics, 51(2), 708–721.
-5. Li, D., Wen, G., Hou, Z., Huan, E., **Hu, Y.**, & Li, H. (2019). *RTCRelief-F: an effective clustering and ordering-based ensemble pruning algorithm for facial expression recognition*. Knowledge and Information Systems, 59(1), 219–250.
-
-#### 2018
-
-1. Luo, D., Wen, G., Li, D., **Hu, Y.**, & Huan, E. (2018). *Deep-learning-based face detection using iterative bounding-box regression*. Multimedia Tools and Applications, 77(19), 24663–24680.
-2. **Hu, Y.**, Wen, G., Ma, J., Li, D., Wang, C., Li, H., & Huan, E. (2018). *Label-indicator morpheme growth on LSTM for Chinese healthcare question department classification*. Journal of Biomedical Informatics, 82, 154–168.
-
-#### 2017
-
-1. Huan, E. Y., Wen, G. H., Zhang, S. J., Li, D. Y., **Hu, Y.**, Chang, T. Y., ... & Huang, B. L. (2017). *Deep convolutional neural networks for classifying body constitution based on face image*. Computational and Mathematical Methods in Medicine, 2017.
+1. **Hu, Y.**, Wen, G., Liao, H., et al. *Automatic construction of Chinese herbal prescriptions from tongue images using CNNs and auxiliary latent therapy topics.* **IEEE Transactions on Cybernetics**.
+2. Dai, D., Tang, J., Yu, Z., et al. *An inception convolutional autoencoder model for Chinese healthcare question clustering.* **IEEE Transactions on Cybernetics**.
+3. **Hu, Y.**, Wen, G., Ma, J., et al. *Label-indicator morpheme growth on LSTM for Chinese healthcare question department classification.* **Journal of Biomedical Informatics**.
 
 ### Academic service (selected)
 
@@ -124,7 +116,7 @@ Email: *[superhy199148@hotmail.com](mailto:superhy199148@hotmail.com)* (personal
 
 Address: KE523, Ken Edwards Building, University Road, University of Leicester, Leicester LE1 7RH, UK
 
-Google Scholar: [Yang Hu](https://scholar.google.com/citations?user=pUL6_G0AAAAJ&hl=zh-CN)
+Google Scholar: [Yang Hu](https://scholar.google.com/citations?user=pUL6_G0AAAAJ&hl=en)
 
 Twitter: [@superhy199148](https://twitter.com/superhy199148)
 
