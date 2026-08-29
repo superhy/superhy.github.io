@@ -292,9 +292,45 @@ h3 {
   align-items: start;
 }
 
+.intro-lead {
+  max-width: 520px;
+}
+
 .intro-grid h2 {
   max-width: 520px;
   margin-bottom: 0;
+}
+
+.intro-social {
+  margin-top: 22px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.intro-social a {
+  width: 36px;
+  height: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--line);
+  color: var(--ink);
+  transition: color 160ms ease, border-color 160ms ease, background 160ms ease;
+}
+
+.intro-social a:hover,
+.intro-social a:focus-visible {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: #f8f1f3;
+  outline: none;
+}
+
+.intro-social svg {
+  width: 18px;
+  height: 18px;
+  display: block;
 }
 
 .lead-prose {
@@ -741,6 +777,23 @@ cite {
   .opportunities-header,
   .contact-inner {
     grid-template-columns: 1fr;
+  }
+
+  .intro-lead {
+    display: contents;
+  }
+
+  .intro-grid h2 {
+    order: 1;
+  }
+
+  .lead-prose {
+    order: 2;
+  }
+
+  .intro-social {
+    order: 3;
+    margin-top: 4px;
   }
 
   .opportunity-routes {
