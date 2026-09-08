@@ -484,14 +484,13 @@ h3 {
 }
 
 .featured-talk {
-  border-bottom: 1px solid var(--line);
-  background: var(--paper);
+  background: transparent;
 }
 
 .featured-talk-inner {
-  padding: 14px 0 12px;
+  padding: 14px 0 20px;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 360px;
+  grid-template-columns: minmax(0, 1fr) 480px;
   gap: 28px;
   align-items: start;
 }
@@ -544,7 +543,7 @@ h3 {
 .featured-talk-frame {
   position: relative;
   width: 100%;
-  max-width: 360px;
+  max-width: 480px;
   aspect-ratio: 16 / 9;
   overflow: hidden;
   background: #111;
@@ -559,7 +558,7 @@ h3 {
 }
 
 .activity-grid {
-  padding: 24px 0 32px;
+  padding: 36px 0 32px;
   display: grid;
   grid-template-columns: minmax(0, 1.5fr) minmax(280px, 0.7fr);
   gap: clamp(24px, 4vw, 40px);
@@ -1063,7 +1062,11 @@ cite {
     padding-bottom: 32px;
   }
 
-  .research-inner,
+  .research-inner {
+    padding-top: 28px;
+    padding-bottom: 8px;
+  }
+
   .publication-section,
   .contact-inner {
     padding-top: 28px;
@@ -1071,11 +1074,11 @@ cite {
   }
 
   .featured-talk-inner {
-    padding: 12px 0 10px;
+    padding: 12px 0 16px;
   }
 
   .activity-grid {
-    padding-top: 20px;
+    padding-top: 28px;
     padding-bottom: 32px;
   }
 
