@@ -14,20 +14,27 @@ I welcome enquiries from strong candidates who want to develop interpretable and
 
 ### News
 
+- **Sep 2026** — Awarded 10,000 hours on the UKRI Isambard-AI and Dawn AIRR supercomputers through the Gateway route (PI).
 - **Jul 2026** — Organized and chaired the IEEE ICME 2026 workshop *Physical Principles for Reliable 3D Modelling in Multimedia*.
 - **30 Jun 2026** — Invited talk, *The post-foundation model era of computational pathology*, at the 2nd Royal College of Radiologists Global AI Conference in London.
+- **2026** — *Clinically-informed prompt learning for explainable diagnosis with biomedical vision-language models* published in **Pattern Recognition**.
 - **2026** — *Distilling Knowledge from Multiple Foundation Models for Accurate and Efficient Spatial Gene Expression Prediction* accepted at **ISBI** as an oral presentation.
 - **2026** — *Decoding fibrosis*, an AI-derived study of collagen deposition phenotypes in MASLD, published in **Hepatology**.
+- **2026** — *Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Latent Priors* published in **IEEE Transactions on Medical Imaging**.
+- **2026** — *TraceTrans: Translation and Spatial Tracing for Surgical Prediction* accepted at **AAAI**.
 - **18 May 2026** — Invited talk, *AI in Computational Pathology*, at the RadExIORSBoost Project Workshop and Training, University of Leicester.
-- **Apr 2026** — Invited talk on the post-foundation model era of computational pathology at the AI for Medicine and Surgery workshop, University of Leeds.
+- **Apr 2026** — Invited talk, *The post-foundation model era of Computational Pathology*, at the Discovering Challenges and Opportunities in AI for Medicine and Surgery workshop, University of Leeds.
 - **Mar 2026** — Guest lecture for BS3083 Respiratory and Cancer Precision Medicine at the University of Leicester.
-- **Feb 2026** — Invited talk at the Cancer Research UK Data-driven Cancer Research Conference in Edinburgh.
+- **Feb 2026** — Invited talk, *Does AI-Powered Cancer Understanding Come with Sufficient Interpretability? A Computational Pathology Perspective*, at the Cancer Research UK Data-driven Cancer Research Conference in Edinburgh.
 - **Feb 2026** — Invited seminar, *Computational Pathology Before and After the Foundation Model Era*, at the University of Warwick.
-- **Nov 2025** — Joined the University of Leicester as Lecturer in Computer Science and presented in the CMS Computing seminar series.
+- **Nov 2025** — Joined the University of Leicester as Lecturer in Computer Science.
+- **Nov 2025** — Seminar, *Exploring the Impact of Micro-features on Macro-morphological Understanding in Computational Pathology*, CMS Computing seminar series, University of Leicester.
 - **Sep 2025** — Oral presentation of *GenST* at the MICCAI Workshop on Computational Pathology and AI for Life Sciences.
 - **Jun 2025** — Invited talk, *Instability of Feature-Driven XAI in Computational Pathology*, at MICCAI SIG-xMedIA.
 - **May 2025** — Featured on Oxford's *To Immunity and Beyond* podcast to discuss self-interactive learning in computational pathology.
 - **May 2025** — Invited talk, *When Machines Interpret*, at the LEAP Digital Health Hub Seminar Series, University of Bristol.
+- **Dec 2024** — Invited keynote, *Next generation of AI and clinician interaction*, Unlimidata Ltd., London.
+- **Dec 2024** — Invited keynote, *Where is the meeting point for AI for medical science?*, University of Bristol.
 
 ### Experience
 
