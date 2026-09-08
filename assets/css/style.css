@@ -491,13 +491,12 @@ h3 {
   padding: 18px 0 20px;
   display: flex;
   align-items: flex-start;
-  justify-content: flex-start;
-  gap: 80px;
+  gap: 24px;
   border-top: 1px solid var(--line);
 }
 
 .featured-talk-copy {
-  flex: 0 1 34rem;
+  flex: 0 1 28rem;
   min-width: 0;
 }
 
@@ -544,6 +543,8 @@ h3 {
   flex: 0 0 480px;
   width: 480px;
   max-width: 100%;
+  margin-left: auto;
+  margin-right: 64px;
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
@@ -883,6 +884,8 @@ cite {
   .featured-talk-media {
     flex: 1 1 auto;
     width: min(480px, 100%);
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .opportunity-routes {
