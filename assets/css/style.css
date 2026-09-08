@@ -488,11 +488,12 @@ h3 {
 }
 
 .featured-talk-inner {
-  padding: 14px 0 20px;
+  padding: 18px 0 20px;
   display: grid;
   grid-template-columns: minmax(0, 1fr) 480px;
   gap: 28px;
   align-items: start;
+  border-top: 1px solid var(--line);
 }
 
 .featured-talk-copy .section-label {
