@@ -489,11 +489,16 @@ h3 {
 
 .featured-talk-inner {
   padding: 18px 0 20px;
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 480px;
-  gap: 28px;
-  align-items: start;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
   border-top: 1px solid var(--line);
+}
+
+.featured-talk-copy {
+  flex: 0 1 34rem;
+  min-width: 0;
 }
 
 .featured-talk-copy .section-label {
@@ -536,8 +541,11 @@ h3 {
 }
 
 .featured-talk-media {
+  flex: 0 0 480px;
+  width: 480px;
+  max-width: 100%;
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   align-items: flex-start;
 }
 
@@ -868,8 +876,13 @@ cite {
     grid-template-columns: 1fr;
   }
 
+  .featured-talk-inner {
+    flex-direction: column;
+  }
+
   .featured-talk-media {
-    justify-content: flex-start;
+    flex: 1 1 auto;
+    width: min(480px, 100%);
   }
 
   .opportunity-routes {
