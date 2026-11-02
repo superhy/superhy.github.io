@@ -6,14 +6,17 @@ Hi, I'm **Yang Hu, PhD**, an Artificial Intelligence researcher. I am interested
 
 I welcome enquiries from strong candidates who want to develop interpretable and biologically grounded AI for pathology, cancer research, and multimodal medicine. Email [hy208@leicester.ac.uk](mailto:hy208@leicester.ac.uk?subject=Prospective%20PhD%20enquiry) to discuss a proposal, or see [Leicester funded opportunities](https://le.ac.uk/study/research-degrees/funded-opportunities).
 
-**Self-funded PhD** — Applications are welcome from candidates supported through personal, family, employer, institutional, or fellowship funding.
+**MIBTP-funded PhD** — A four-year studentship, with Dean Fennell, on interpretable AI for tumour ecosystems and aggressive molecular states in mesothelioma. Applications close 23 November 2026. [Project details](https://www.findaphd.com/phds/project/resolving-the-associations-between-multicellular-ecosystems-and-aggressive-molecular-and-evolutionary-tumour-states/?p193721). After that date this route is closed; self-funded enquiries return to the first position.
 
 **CSC-funded PhD** — I welcome strong applicants seeking full PhD funding through the China Scholarship Council, subject to the annual scheme and university requirements.
 
-**Funded openings** — Other fully and partially funded PhD opportunities will be added here as soon as new projects and scholarship routes become available.
+**Self-funded PhD** — Applications are welcome from candidates supported through personal, family, employer, institutional, or fellowship funding.
 
 ### News
 
+- **Nov 2026** — A four-year MIBTP studentship is open, with Dean Fennell, on interpretable AI for how multicellular tumour ecosystems relate to aggressive molecular states and treatment response in mesothelioma. Applications close 23 November 2026.
+- **12 Oct 2026** — The team released *LIQUID-Agent* for early trial: agentic analysis for liquid biopsy that starts from a scientific question and runs through to figures and a report, with local data and an auditable workflow. [Project site](https://lcrc-ai.github.io/liquid-agent-wiki/).
+- **Oct 2026** — At MICCAI 2026 the team presented three papers on pathology foundation models: *SmartStu* (disease-specific adaptation for breast cancer; main-conference poster), *G-Interp* (cellular and microenvironmental interpretability), and *AdaFusion* (combining foundation models). The latter two were at the iMIMIC workshop.
 - **Sep 2026** — Awarded 10,000 hours on the UKRI Isambard-AI and Dawn AIRR supercomputers through the Gateway route (PI).
 - **Jul 2026** — Organized and chaired the IEEE ICME 2026 workshop *Physical Principles for Reliable 3D Modelling in Multimedia*.
 - **30 Jun 2026** — Invited talk, *The post-foundation model era of computational pathology*, at the 2nd Royal College of Radiologists Global AI Conference in London.

@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style.css?v=20260908j">
+    <link rel="stylesheet" href="assets/css/style.css?v=20261102b">
   </head>
   <body>
     <span class="top-anchor" id="top" aria-hidden="true"></span>
@@ -94,21 +94,22 @@
             <h2>Prospective PhD students</h2>
             <p>I welcome enquiries from strong candidates who want to develop interpretable and biologically grounded AI for pathology, cancer research, and multimodal medicine.</p>
           </div>
-          <div class="opportunity-routes">
-            <article>
+          <div class="opportunity-routes" id="opportunity-routes">
+            <article data-route="mibtp">
               <span>01</span>
-              <h3>Self-funded PhD</h3>
-              <p>Applications are welcome from candidates supported through personal, family, employer, institutional, or fellowship funding.</p>
+              <h3>MIBTP-funded PhD <span class="route-flag" hidden>Expired</span></h3>
+              <p>A four-year studentship, with Dean Fennell, on interpretable AI for tumour ecosystems and aggressive molecular states in mesothelioma. Applications close 23 November 2026.</p>
+              <a href="https://www.findaphd.com/phds/project/resolving-the-associations-between-multicellular-ecosystems-and-aggressive-molecular-and-evolutionary-tumour-states/?p193721" target="_blank" rel="noopener noreferrer">Project details ↗</a>
             </article>
-            <article>
+            <article data-route="csc">
               <span>02</span>
               <h3>CSC-funded PhD</h3>
               <p>I welcome strong applicants seeking full PhD funding through the China Scholarship Council, subject to the annual scheme and university requirements.</p>
             </article>
-            <article>
+            <article data-route="self">
               <span>03</span>
-              <h3>Funded openings</h3>
-              <p>Other fully and partially funded PhD opportunities will be added here as soon as new projects and scholarship routes become available.</p>
+              <h3>Self-funded PhD</h3>
+              <p>Applications are welcome from candidates supported through personal, family, employer, institutional, or fellowship funding.</p>
             </article>
           </div>
           <div class="opportunity-actions">
@@ -137,6 +138,21 @@
               <h3>Multimodal biomedical AI</h3>
               <p>Cross-modal links between histology, spatial transcriptomics, endoscopy, clinical records, and tumour microenvironment evolution.</p>
             </article>
+          </div>
+        </div>
+        <div class="featured-talk product-release" aria-labelledby="liquid-title">
+          <div class="section featured-talk-inner">
+            <div class="product-brand">
+              <img class="product-mark" src="assets/images/liquid-agent-mark.png" width="72" height="72" alt="">
+              <img class="product-wordmark" src="assets/images/liquid-agent-wordmark.png" width="360" height="65" alt="LIQUID-Agent">
+            </div>
+            <div class="featured-talk-copy">
+              <div class="section-label">Project release</div>
+              <p class="featured-talk-meta">12 October 2026 · Leicester Cancer Research Centre</p>
+              <h2 id="liquid-title">Open for early trial</h2>
+              <p>Agentic AI for liquid-biopsy research. A scientific question is enough to begin: it plans and runs the analysis, from quality control to figures and a report, on the latest language models, with the data kept local and every step open to audit.</p>
+              <a href="https://lcrc-ai.github.io/liquid-agent-wiki/" target="_blank" rel="noopener noreferrer">Visit the project ↗</a>
+            </div>
           </div>
         </div>
         <div class="featured-talk" aria-labelledby="featured-talk-title">
@@ -171,6 +187,18 @@
             <span>Newest first</span>
           </div>
           <div class="news-window" tabindex="0" aria-label="Scrollable news list">
+            <article class="news-item" id="news-mibtp">
+              <time datetime="2026-11">Nov 2026</time>
+              <p>A four-year MIBTP studentship is open, with Dean Fennell, on interpretable AI for how multicellular tumour ecosystems relate to aggressive molecular states and treatment response in mesothelioma. Applications close 23 November 2026. <a href="https://www.findaphd.com/phds/project/resolving-the-associations-between-multicellular-ecosystems-and-aggressive-molecular-and-evolutionary-tumour-states/?p193721" target="_blank" rel="noopener noreferrer">Project details ↗</a> <span class="route-flag" hidden>Expired</span></p>
+            </article>
+            <article class="news-item">
+              <time datetime="2026-10-12">12 Oct 2026</time>
+              <p>The team released <cite>LIQUID-Agent</cite> for early trial: agentic analysis for liquid biopsy that starts from a scientific question and runs through to figures and a report, with local data and an auditable workflow. <a href="https://lcrc-ai.github.io/liquid-agent-wiki/" target="_blank" rel="noopener noreferrer">Project site ↗</a></p>
+            </article>
+            <article class="news-item">
+              <time datetime="2026-10">Oct 2026</time>
+              <p>At MICCAI 2026 the team presented three papers on pathology foundation models: <cite>SmartStu</cite>, on disease-specific adaptation for breast cancer; <cite>G-Interp</cite>, on cellular and microenvironmental interpretability; and <cite>AdaFusion</cite>, on combining foundation models. SmartStu was a main-conference poster; the other two were at the iMIMIC workshop.</p>
+            </article>
             <article class="news-item">
               <time datetime="2026-09">Sep 2026</time>
               <p>Awarded 10,000 hours on the UKRI Isambard-AI and Dawn AIRR supercomputers through the Gateway route (PI).</p>
@@ -388,13 +416,36 @@
     </main>
 
     <footer class="site-footer">
-      <p>&copy; Yang Hu. Last updated August 2026.</p>
+      <p>&copy; Yang Hu. Last updated November 2026.</p>
       <a href="#top">Back to top ↑</a>
     </footer>
     <script>
       document.querySelectorAll(".mobile-menu a").forEach((link) => {
         link.addEventListener("click", () => link.closest("details").removeAttribute("open"));
       });
+
+      /* After 23 November 2026, restore self-funded as the first route and mark the MIBTP studentship expired. */
+      (function () {
+        var cutoff = Date.parse("2026-11-24T00:00:00Z");
+        if (!(Date.now() >= cutoff)) return;
+
+        document.querySelectorAll("#news-mibtp .route-flag, #opportunity-routes [data-route='mibtp'] .route-flag").forEach((flag) => {
+          flag.hidden = false;
+        });
+
+        var list = document.getElementById("opportunity-routes");
+        if (!list) return;
+        var order = { self: 1, csc: 2, mibtp: 3 };
+        Array.from(list.children)
+          .sort((a, b) => order[a.dataset.route] - order[b.dataset.route])
+          .forEach((item, index) => {
+            var label = item.querySelector("span");
+            if (label) label.textContent = String(index + 1).padStart(2, "0");
+            list.appendChild(item);
+          });
+        var card = list.querySelector("[data-route='mibtp']");
+        if (card) card.classList.add("is-expired");
+      })();
     </script>
   </body>
 </html>
